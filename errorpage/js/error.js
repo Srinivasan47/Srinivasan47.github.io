@@ -16,9 +16,9 @@ angular.module('errorApp', [])
    $scope.localeBase = {
 	   "url.footer.contactUs" : "#/contactUs",
 	   "url.footer.disclaimer" : "http://www.w3schools.com",
-	   "url.footer.privacy" : "http://www.triumphlearning.com/waggle-privacy",
-	   "url.footer.termsAndConditionsPath" : "http://www.triumphlearning.com/waggle-terms-of-service",
-	   "url.footer.triumphLearning" : "http://www.triumphlearning.com",
+	   "url.footer.privacy" : "http://www.srinivasan47.github.io/waggle-privacy",
+	   "url.footer.termsAndConditionsPath" : "http://www.srinivasan47.github.io/waggle-terms-of-service",
+	   "url.footer.triumphLearning" : "http://www.srinivasan47.github.io",
    };
    
    $scope.locale = locale;
