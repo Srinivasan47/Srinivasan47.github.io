@@ -1,0 +1,341 @@
+{
+	"info": {
+        "status": "WG200",
+		"title": "",
+        "message": "Ok",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "classId": "12",
+		"classViewId": "12",
+		"classViewRegId": "12",
+		"className": "Mr. Emerson Class",
+		"theme": "emerald",
+		"showGames":"on",
+		"hasClearedAssignments": "on",
+        "cleared": "on",
+        "view": "assignments",
+		"subjects": [
+            {
+                "subjectId": "1",
+                "subjectName": "Math"
+            },
+            {
+                "subjectId": "2",
+                "subjectName": "ELA"
+            }
+        ],
+        "assignments": [
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "101",
+					"studentAssignmentId": "101",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_116",
+                    "goalId": "016",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "on",
+                        "newNotes": "4"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "102",
+					"studentAssignmentId": "102",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_117",
+                    "goalId": "017",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "0"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+			{
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "103",
+					"studentAssignmentId": "103",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_118",
+                    "goalId": "018",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "on",
+                        "newNotes": "4"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "104",
+					"studentAssignmentId": "104",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_119",
+                    "goalId": "019",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "0"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+			{
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "105",
+					"studentAssignmentId": "105",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_120",
+                    "goalId": "020",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "on",
+                        "newNotes": "4"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "106",
+					"studentAssignmentId": "106",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_121",
+                    "goalId": "021",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "0"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            }            
+        ],
+		"rewards": {
+            "skillsAccquired": "252",
+            "flocksReleased": "11",
+            "feetTraveled": "1230"
+        },        
+		"feetClouds": [
+			{"studentFeetCloudId":"GUID1", "value":310},
+			{"studentFeetCloudId":"GUID2", "value":40},
+			{"studentFeetCloudId":"GUID3", "value":30},
+			{"studentFeetCloudId":"GUID4", "value":20},
+			{"studentFeetCloudId":"GUID5", "value":10},
+			{"studentFeetCloudId":"GUID6", "value":40},
+			{"studentFeetCloudId":"GUID7", "value":90}
+		],
+        "flockClouds": [
+			{"studentFlockCloudId":"GUID1", "value":"small"},
+			{"studentFlockCloudId":"GUID2", "value":"large"},
+			{"studentFlockCloudId":"GUID3", "value":"medium"},
+			{"studentFlockCloudId":"GUID4", "value":"small"},
+			{"studentFlockCloudId":"GUID5", "value":"large"},
+			{"studentFlockCloudId":"GUID6", "value":"large"},
+			{"studentFlockCloudId":"GUID7", "value":"golden"}
+        ],
+        "messageClouds": [
+            {
+                "type": "urgency",
+                "message": "<span><strong>Congratulations!</strong> <br/> Your hard work will help you lift up in the world! You just traveled 12 feet.</span>",
+                "messageId": "1",
+                "messageGroup": "class"
+            },
+            {
+                "type": "urgency",
+                "message": "Yikes! You're late on 12 assignments! Better get cracking.",
+                "messageId": "2",
+                "messageGroup": "class"
+            },
+            {
+                "type": "excited",
+                "message": "<span><strong>Congratulations!</strong> <br/> You traveled <strong>+20 feet!</strong></span>",
+                "messageId": "3",
+                "messageGroup": "class"
+            },
+            {
+                "type": "excited",
+                "message": "<span><strong>Congratulations!</strong> <br/> You earned a Large <br/>Flock!</span>",
+                "messageId": "4",
+                "messageGroup": "class"
+            },
+            {
+                "type": "calm",
+                "message": "<span>You completed your <br/>first assignment. <br/>Clear it from your list <br/>with the checkmark.</span>",
+                "messageId": "5",
+                "messageGroup": "class"
+            },
+            {
+                "type": "calm",
+                "message": "<span><strong>Congratulations!</strong> <br/> You've conquered a New Skill! Review all your skills for this class in the Skills Acquired tab. Once you finish this assignment, you'll be able to go back to review this skill and keep your skills sharp.<span>",
+                "messageId": "6",
+                "messageGroup": "class"
+            },
+            {
+                "type": "calm",
+                "message": "<span><strong>Congratulations!</strong> <br/> Flocks form when you get several large winged flying pigs in a row. See how many you can release into the wild.</span><br/><img src='images/blue-pig.png' alt='' width='207' height='155'/>",
+                "messageId": "7",
+                "messageGroup": "class"
+            }
+        ],
+		"alerts": [
+			{
+				"messageId": "1",
+				"messageHeader": "From Mr. Emerson Woodman MAY 23, 2013 4:30PM",
+				"message": "Mr. Emerson Woodman, 1 Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta. Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta."			
+			},
+			{
+				"messageId": "2",
+				"messageHeader": "From Mr. Emerson Woodman MAY 21, 2013 1:04 PM",
+				"message": "Mr. Emerson Woodman, 2 Vestibulum laoreet in tortor condimentum congue. Suspendisse a tincidunt felis. Phasellus neque ipsum, consequat ut accumsan id, lacinia in urna. Nunc quis magna semper, laoreet dui quis, porttitor lectus. Vestibulum lobortis eros sit amet hendrerit accumsan."
+			},
+			{
+				"messageId": "3",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 3 Integer congue congue diam, nec aliquet orci malesuada vel. Mauris sed nisl purus. Phasellus egestas arcu turpis, et tristique diam suscipit eu. Nunc mauris lacus, pulvinar vitae elit at, auctor tristique ligula."
+			},
+			{
+				"messageId": "4",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 4 Nunc cursus id dui in scelerisque. Donec rhoncus risus ac aliquam egestas. Sed at ante a eros vulputate cursus. Curabitur gravida consequat urna, eget imperdiet magna vestibulum sed. Pellentesque nec nibh varius, suscipit tortor vel, lacinia est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "5",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 5 Nullam quis ante id nisl euismod congue. Cras suscipit quis tortor scelerisque pharetra."
+			},
+			{
+				"messageId": "6",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 6 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "7",
+				"messageHeader": "From Mr. Emerson Woodman MAY 23, 2013 4:30PM",
+				"message": "Mr. Emerson Woodman, 1 Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta. Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta."			
+			},
+			{
+				"messageId": "8",
+				"messageHeader": "From Mr. Emerson Woodman MAY 21, 2013 1:04 PM",
+				"message": "Mr. Emerson Woodman, 2 Vestibulum laoreet in tortor condimentum congue. Suspendisse a tincidunt felis. Phasellus neque ipsum, consequat ut accumsan id, lacinia in urna. Nunc quis magna semper, laoreet dui quis, porttitor lectus. Vestibulum lobortis eros sit amet hendrerit accumsan."
+			},
+			{
+				"messageId": "9",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 3 Integer congue congue diam, nec aliquet orci malesuada vel. Mauris sed nisl purus. Phasellus egestas arcu turpis, et tristique diam suscipit eu. Nunc mauris lacus, pulvinar vitae elit at, auctor tristique ligula."
+			},
+			{
+				"messageId": "10",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 4 Nunc cursus id dui in scelerisque. Donec rhoncus risus ac aliquam egestas. Sed at ante a eros vulputate cursus. Curabitur gravida consequat urna, eget imperdiet magna vestibulum sed. Pellentesque nec nibh varius, suscipit tortor vel, lacinia est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "11",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 5 Nullam quis ante id nisl euismod congue. Cras suscipit quis tortor scelerisque pharetra."
+			},
+			{
+				"messageId": "12",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 6 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "13",
+				"messageHeader": "From Mr. Emerson Woodman MAY 23, 2013 4:30PM",
+				"message": "Mr. Emerson Woodman, 1 Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta. Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta."			
+			},
+			{
+				"messageId": "14",
+				"messageHeader": "From Mr. Emerson Woodman MAY 21, 2013 1:04 PM",
+				"message": "Mr. Emerson Woodman, 2 Vestibulum laoreet in tortor condimentum congue. Suspendisse a tincidunt felis. Phasellus neque ipsum, consequat ut accumsan id, lacinia in urna. Nunc quis magna semper, laoreet dui quis, porttitor lectus. Vestibulum lobortis eros sit amet hendrerit accumsan."
+			},
+			{
+				"messageId": "15",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 3 Integer congue congue diam, nec aliquet orci malesuada vel. Mauris sed nisl purus. Phasellus egestas arcu turpis, et tristique diam suscipit eu. Nunc mauris lacus, pulvinar vitae elit at, auctor tristique ligula."
+			},
+			{
+				"messageId": "16",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 4 Nunc cursus id dui in scelerisque. Donec rhoncus risus ac aliquam egestas. Sed at ante a eros vulputate cursus. Curabitur gravida consequat urna, eget imperdiet magna vestibulum sed. Pellentesque nec nibh varius, suscipit tortor vel, lacinia est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "17",
+				"messageHeader": "From Mr. Emerson Woodman MAY 13, 2013 10:30 AM",
+				"message": "Mr. Emerson Woodman, 5 Nullam quis ante id nisl euismod congue. Cras suscipit quis tortor scelerisque pharetra."
+			},
+			{
+				"messageId": "18",
+				"messageHeader": "From Mr. Emerson Woodman MAY 1, 2013 4:51 PM",
+				"message": "Mr. Emerson Woodman, 6 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			}	
+		]		
+    }
+}

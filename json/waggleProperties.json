@@ -1,0 +1,120 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": "Ok",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {    	
+    	"url.header.getCoach" : "http://www.google.com",
+		"url.header.faq" : "http://www.google.com",			
+		"url.footer.aboutGetWaggle" : "http://www.google.com",
+		"url.login.application": "http://localhost/waggle-ui-b1/dist/waggle-ui-login/",
+		"url.footer.contactus" : "#/contactUs",
+		"url.footer.privacy" : "#/privacyPolicy",
+		"url.footer.termsAndConditions" : "#/termsAndConditions",
+		"url.footer.triumphLearning" : "http://www.google.com",
+		"url.footer.disclaimer" : "http://www.w3schools.com",
+		"url.gamespopup" : "http://www.w3schools.com",
+		"url.reviewpopup.image": "http://www.google.com",
+		"url.reviewpopup.imageName": "http://www.google.com",
+		
+		"label.reviewpopup.morepractice":"More Practice:",
+		"label.reviewpopup.review":"Review:",
+		"label.reviewpopup.reviewbutton":"Review",
+		
+		"label.assignstatus.skills" : "SKILL",
+		"label.assignstatus.skillsHelpIcon.title" : "View your proficiency for each skill. One bar = Not started; two bars = Minimal; three bars = Partial; four bars = Basic, five bars = Proficient and six bars = Advanced.",
+		"label.assignstatus.skilldescription":"skill<br>description",
+		
+		"label.assignstatus.level" : "Level",
+		"label.assignstatus.levelHelpIcon.title" : "Check the status of each of your games.",
+		"label.assignstatus.openedLock" : "Not yet started",
+		"label.assignstatus.openCircle" : "Not yet completed",
+		"label.assignstatus.filledCircle" : "Complete!",
+		"label.assignstatus.closedLock" : "Unable to start",
+		
+		"label.statusType.locked.title" : "Hold tight! You're not ready for this goal yet!",
+		
+		"label.header.assignments" : "Assignments",
+		"label.header.games" : "Games",
+		"label.header.showme" : "My Classes:",
+		"label.header.me" : "Me",
+		"label.header.faq" : "Help",
+		"label.header.getCoach" : "Get Coach",
+		"label.header.signOut" : "Sign Out",
+		
+		"label.header1.goBack" : "Go Back",
+		"label.ams.openResponse.sendToTeacher" : "Send to Teacher",
+		"label.ams.tryAgain.popUp" : "Oops! You'll have to start over. Good luck!",
+		"label.ams.passage.close" : "Close to Continue",
+		
+		"label.ams.graded.yourResponse" : "Your Response",
+		"label.ams.graded.teacherFeedback" : "Teacher Feedback",
+		"label.ams.graded.howYouDid" : "",
+		"label.ams.graded.great" : "Great!",
+		"label.ams.graded.needImprovement" : "Need improvement",
+		"label.ams.graded.printPreview.class" : "Class",
+		"label.ams.graded.printPreview.date" : "Submission Date",
+		"label.ams.graded.printPreview.goal" : "Goal Name",
+		"label.ams.graded.printPreview.instructions" : "Instructions",
+		"label.ams.graded.printPreview.teacherComments" : "Teacher Feedback",
+		"label.ams.graded.printPreview.howYouDid" : "",
+		"label.ams.graded.printPreview.great" : "Great!",
+		"label.ams.graded.printPreview.needImprovement" : "Need improvement",
+		"label.ams.graded.printPreview.studentResponse" : "Student Response",		
+		
+		"label.printPreview.class" : "Class",
+		"label.printPreview.date" : "Date Submitted",
+		"label.printPreview.goal" : "Goal Name",
+		"label.printPreview.Instructions" : "Instructions",
+		"label.printPreview.StudentResponse" : "Your Response",
+		
+		"label.footer.goalsAcquired" : "Goals Reached",
+		"label.footer.goalsAcquired.noGoalMessage" : "No goals reached yet! When you've completed all practice and games for a goal, it will appear in this list.",
+		"label.footer.flocksReleased" : "Flocks Released",
+		"label.footer.feetTraveled" : "Feet Traveled",
+		
+		"label.footer.statement" : "Here's some stuff your parents may care about:",
+		"label.footer.aboutGetWaggle" : "About GetWaggle",
+		"label.footer.contactus" : "Contact Us",
+		"label.footer.privacy" : "Privacy Policy",
+		"label.footer.termsAndConditions" : "Terms and Conditions",
+		"label.footer.disclaimer": "Disclaimer",
+		"label.footer.triumphLearning" : "Triumph Learning",
+		"label.footer.copyright" : "Copyright &#64; 2014 Triumph Learning",
+		"label.footer.PoweredBy" : "Powered by Knewton",
+		
+		"label.dueDate.today" : "TODAY",
+		"label.dueDate.late" : "LATE",
+		"label.dueDate.dayLeft" : "DAY LEFT",
+		"label.dueDate.daysLeft" : "DAYS LEFT",
+		"label.dueDate.complete" : "COMPLETED",
+		
+		"label.content.showCleared" : "Show Cleared",
+		"label.content.hideCleared" : "Hide Cleared",
+		"label.content.lockPopUp" : "You will not be able to take this assignment until the previous assignments are completed",
+		
+		"label.openResponse.gradeToContinue" : "Sit tight!",
+		"label.openResponse.tryAgain" : "Try again!",
+		"label.openResponse.graded" : "Graded!",
+		
+		"label.game.playsText": "PLAYS",
+		"label.game.playsLeftThisWeek": "PLAYS LEFT THIS WEEK",
+		"label.game.playButton": "PLAY",
+		"label.game.continueButton": "CONTINUE",
+		"label.game.mostRecent": "Most Recent",
+		"label.game.highestLevelPlayed": "Highest Played",
+		"label.game.bestScore": "BEST SCORE",
+		
+		"label.completedAssignment.allAssignments" : "All Assignments",
+		"label.completedAssignment.reviewAllSkills" : "Review Skills",
+		"label.completedAssignment.reviewTeacherFeedback" : "See Teacher Feedback",
+		
+		"label.popup.serverError" : "If you are continually receiving this message, please contact Customer Support.",
+		"label.popup.sessionTimeoutPopup" : "You'll be logged out in <span class='timer'></span> seconds. <br> Click to continue!",
+		
+		"label.message.inProgress" : "Updating - Sit Tight!"
+    }
+}

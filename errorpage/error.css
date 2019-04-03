@@ -1,0 +1,423 @@
+/* 
+	Author : Triumph Learning LLC
+	Down for maintenance page : error.css
+*/
+/* Down for maintenance page CSS: Starts */
+@font-face {
+	font-family: 'AkagiPro-Bold';
+	src: url('assets/fonts/264964_22_0.eot');
+	src: url('assets/fonts/264964_22_0.eot?#iefix') format('embedded-opentype'), url('assets/fonts/264964_22_0.woff') format('woff'), url('assets/fonts/264964_22_0.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'AkagiPro-Book';
+	src: url('assets/fonts/264964_14_0.eot');
+	src: url('assets/fonts/264964_14_0.eot?#iefix') format('embedded-opentype'), url('assets/fonts/264964_14_0.woff') format('woff'), url('assets/fonts/264964_14_0.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Adelle-Bold';
+	src: url('assets/fonts/264964_0_0.eot');
+	src: url('assets/fonts/264964_0_0.eot?#iefix') format('embedded-opentype'), url('assets/fonts/264964_0_0.woff') format('woff'), url('assets/fonts/264964_0_0.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Adelle-Regular';
+	src: url('assets/fonts/264964_9_0.eot');
+	src: url('assets/fonts/264964_9_0.eot?#iefix') format('embedded-opentype'), url('assets/fonts/264964_9_0.woff') format('woff'), url('assets/fonts/264964_9_0.ttf') format('truetype');
+}
+
+html,body {
+	height: 100%;
+	-moz-user-select: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	}
+html {background: none;}
+body, input, textarea {
+	font-family: "AkagiPro-Bold";
+	font-weight: normal;
+	color: #777;
+	}
+header, footer {
+	left: 0;
+	position: absolute;
+	right: 0;
+	z-index: 4;
+	width: 100%;
+	}
+header {top: 0;}
+footer {
+	bottom: 0;
+	z-index: 2;
+	position: fixed;
+	}
+body {background-color: #79BED1;}	
+ul li, ol li {list-style: none;}
+a {color: #fff;}
+a:hover {color: #F89D02;}
+.button:active, .button:active {
+	 box-shadow: none !important;
+	 }
+/* Base CSS: Ends */
+/* .emerald,.peridotm.sapphire,.amethyst,.garnet {transition: all 1.5s ease 0;} */
+/* Defined global Font-size and Family */
+.font-akagipro-bold {font-family: Akagipro-bold;}
+.font-akagipro-book {font-family: Akagipro-book;}
+.tiny-text {font-size: 0.688em; /* 11px */}
+.small-text {font-size: 0.75em; /* 12px */}
+.medium-text {font-size: 0.875em;  /* 14px */}
+.large-text {font-size: 1em; /* 16px browser default*/}
+.xlarge-text {font-size: 1.125em;  /* 18px */}
+.extra-large {font-size:24px;}
+.down-site-bg {
+	background-color:#fff;
+	margin:0px;
+	}
+.down-site-main-container {
+	max-width:64em;
+	margin:0 auto;
+	background-color:#fff;
+	display:block;
+	height:97%;
+	width:64em;
+	}
+.maintenance-content-holder	{	
+	margin: 0 auto;
+	width: 94%;
+	display:inline-block;
+	text-align:center;
+	}
+.down-site-logo-holder {
+	width:96%;
+	display:block;
+	margin:17px 0 0 16px;
+	text-align:left;
+	}
+.down-site-logo {
+	background:url("assets/images/waggle-discover.png")no-repeat scroll 0 0 transparent;
+	height:100%;
+	display:inline-block;
+	width:236px;
+	height:76px;	
+	}
+.down-for-maintenance-bg {
+	background:url("assets/images/down-maintenance-cloud-bg.png")no-repeat scroll 0 0 transparent;
+	background-position:right top;
+	height:100%;
+	display:block;
+	position:relative;
+	width:inherit;
+	/*width:980px;*/
+	}
+.pig-holder-msg	{
+	background:url("assets/images/downmaintenance-pig.png")no-repeat scroll 0 0 transparent;
+	background-position:right top;
+	height:182px;
+	width:695px;
+	display:block;
+	position:relative;
+	margin:135px auto 0;
+	}
+.waves-downmaitenance	{
+	background:url("assets/images/waves-downmaitenance.png")no-repeat scroll 0 0 transparent;
+	width:345px;
+	height:66px;
+	display: inline-block;
+    margin: 102px 24px 20px 311px;
+    position: relative;
+	}
+.waves-page-not-found {
+	background: url("assets/images/waves-page-not-found.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	display: inline-block;
+	height: 67px;
+	margin: 102px 12px 20px 314px;
+	position: relative;
+	width: 309px;
+	}
+.waves-system-error {
+	background: url("assets/images/waves-system-error.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	display: inline-block;
+	height: 67px;
+	margin: 103px 12px 20px 314px;
+	position: relative;
+	width: 309px;
+	}
+.waves-taking-long {
+	background: url("assets/images/waves-taking-long.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	display: inline-block;
+	height: 67px;
+	margin: 103px 12px 20px 314px;
+	position: relative;
+	width: 309px;
+	}
+.down-for-maintenance-footer {
+	bottom:0px;
+	height:40px;
+	background-color:#282828;
+	float: left;
+    height: 40px;
+	text-align:center;
+	padding:5px 0;
+	color:#fff;
+	line-height:normal;
+	left:0px;
+	width:100%;
+	position: fixed;
+	font-family: "AkagiPro-Bold";
+    font-size: 11px;
+	/*width: 1024px;*/
+	/*position:relative;*/
+	}
+.down-for-maintenance-msg {
+	text-align:center;
+	font-size:13px;
+	line-height:20px;
+	margin:235px 0 0 25px;
+	width:97%;
+	display:block;
+	/*height:100%;*/
+	}
+.down-for-maintenance-msg .code {display:block;}
+.down-for-maintenance-msg a:hover {color:#F89D02;}
+.down-for-maintenance-msg a {color:#777;text-decoration:underline;}	
+.dotted-bg, .dotted-bg-right {
+	background: url("assets/images/login-bg-dots.png") repeat scroll  0 6px transparent;
+	width:20px;
+	height:100%;
+	display:inline-block;
+	float:left;
+	margin:0px;
+	position:relative;
+	}
+.dotted-bg-right {
+	float: right;
+	}
+.footer-triumph-link {color:#6EC4E7;}
+.down-for-maintenance-footer a {
+	text-decoration:none;
+	padding-left: 4px;
+    padding-right: 4px;
+	}
+.pig-holder-msg.svg-portrait {
+	display:none;
+	}	
+/* Down for maintenance page CSS: Ends */
+
+/*copied from the waggle-teacher-ui.css*/
+.footer-info-wrapper {
+    background: none repeat scroll 0 0 #000;
+    min-height: 34px;
+    padding: 12px 0;
+}
+
+/* Footer CSS : Starts */
+.footer-info-wrapper {
+	background: #000;
+	min-height: 34px;
+    padding: 12px 0;
+	/*border-top: 1px solid #101010;*/
+	}
+.footer-info-wrapper .large-12.columns.footer-holder {
+    float: none;
+    margin: 0 auto;
+    width: 1012px;
+	}	
+.powered-by {
+	position: absolute;
+    right: 37px;
+    top: -4px;
+	}
+footer .app-empty-warpper {height: 68px;}
+footer .row {
+	color: #666;
+	text-align: center;
+	}
+footer .footer-links {
+	color: #fff;
+	line-height: 1.2em;
+	display: inline-block;
+	}
+.no-touch footer .footer-links:hover {color: #f89d02;}
+footer .footer-info-wrapper .footer-links:active {color: #0082ca;}
+footer .footer-info {margin-right: 0.688em;}
+footer .footer-divider, footer .copyright {margin: 0 0.750em;}
+footer .row.collapse {padding: 0;}
+.login-footer{
+	background-color:#282828;
+	font-size:11px;
+	font-family:"AkagiPro-Bold";
+	min-height:36px;
+	padding: 5px 0;
+	position:fixed;
+	bottom:0;
+	text-align:center;
+	width:100%;
+	z-index:2;
+	}
+.footer-menus{
+	color: #fff;
+	display: inline-block;	
+	margin:0;
+	font-size:11px;
+	}
+.footer-menus li{
+	list-style:none;
+	float:left;
+	}
+.footer-menus li a{
+	display: inline-block;
+    padding: 0 5px;
+	}
+.footer-menus li a:hover {color:#F89D02;}
+.footer-copyright{
+	color:#fff;
+	padding:1px 0;
+	font-size:10px;
+	}
+.overlay, .overlay-portrait {
+	background-color: rgba(76, 76, 67, 0.5);
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+	left: 0px;
+	top: 0px;
+	}
+.overlay-portrait {
+	z-index:99; /* foundation reveal modal bg overlay z-index is 98 */
+	}	
+/* Footer CSS: Ends */
+
+@media only screen and (max-width : 767px){
+	.terms-conditions .error-message:after {
+		left: -3px;
+		top: 70%;
+	}
+	.terms-conditions .error-message:before {
+		left: -6px;
+		top: 70%;
+	}
+	.login-pig-logo{
+		width:240px;
+		bottom: -20px;
+	}
+	.login-banner{
+		background:url("assets/images/login_bg-768.png") no-repeat scroll 0px 0px transparent;
+	}
+	.login-banner-bottom{
+		background:url("assets/images/login-bg-bottom-768.png") no-repeat scroll center bottom transparent;
+		height:42px;
+		bottom:-42px;
+		width:768px;
+	}
+	.security-question .error-message,
+	.reset-password-username .error-message,
+	.reset-username .error-message, .choose-new-password .error-message{
+		right: -200px;
+	}
+	.terms-conditions .error-message {
+		max-height: 81px;
+		padding: 3px 5px;
+		right: 19px;
+		top: 327px;
+		width: 236px;
+	}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) {	
+	.pig-holder-msg.svg-portrait{	
+		display:inline-block;		
+	}
+	.pig-holder-msg.svg-landscape{	
+		display:none;		
+	}	
+	.login-pig-logo{
+		width:240px;
+		bottom: -20px;
+	}
+	.login-banner{
+		background:url("assets/images/login_bg-768.png") no-repeat scroll 0px 0px transparent;
+	}
+	.login-banner-bottom{
+		background:url("assets/images/login-bg-bottom-768.png") no-repeat scroll center bottom transparent;
+		height:42px;
+		bottom:-42px;
+		width:768px;
+	}	
+	/* Down for maintenance page CSS: Starts */
+	.down-site-main-container {width:768px;}
+	.down-for-maintenance-msg {margin-top:90px;}
+	.maintenance-content-holder {width:93%;}
+	.down-for-maintenance-bg, .down-for-maintenance-footer {width:100%;}
+	.down-for-maintenance-bg {
+		background:url("assets/images/down-maintenance-cloud-768.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+		}
+	.pig-holder-msg {
+		background: url("assets/images/downmaintenance-pig-768.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+		display: block;
+		height: 182px;
+		margin: 85px auto 0;
+		position: relative;
+		width: 522px;
+		}
+	.waves-downmaitenance {
+		background: url("assets/images/waves-downmaitenance-768.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		display: inline-block;
+		height: 50px;
+		margin:76px 12px 20px 234px;
+		position: relative;
+		width: 287px;
+		}
+	.waves-page-not-found {
+		background: url("assets/images/waves-page-not-found-768.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		margin: 77px 12px 20px 236px;
+		position: relative;
+		width: 309px;
+		}
+	.waves-system-error {
+		background: url("assets/images/waves-system-error-768.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		margin:75px 12px 20px 236px;
+		position: relative;
+		width: 309px;
+		}
+	.waves-taking-long {
+		background: url("assets/images/waves-taking-long-768.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		margin:78px 12px 20px 233px;
+		position: relative;
+		width: 309px;
+		}
+	.down-site-logo {
+		background:url("assets/images/waggle-discover-768.png")no-repeat scroll 0 0 transparent;
+		height:100%;
+		display:inline-block;
+		width:177px;
+		height:57px;	
+		}
+	/* Down for maintenance page CSS: Ends */
+}
+@media only screen and (min-height : 100px) and (max-height : 786px) {
+	.down-site-main-container {min-height: 600px;}
+}
+@media only screen and (min-height : 150px) and (max-height : 400px) {
+	.down-for-maintenance-msg {margin-top: 50px;}
+}
+@media only screen and (min-height : 400px) and (max-height : 667px) {
+	.down-for-maintenance-msg {margin-top: 50px;}	
+}
+@media only screen and (min-height : 668px) and (max-height : 710px) {
+	.down-for-maintenance-msg {margin-top: 135px;}
+}
+@media only screen and (min-height : 710px) and (max-height : 786px) {
+	.down-for-maintenance-msg {margin-top: 175px;}	
+}
+@media only screen and (min-height : 300px) and (max-height : 400px) {
+	.down-for-maintenance-msg {margin-top: 50px;}
+}
+@media only screen and (min-height : 100px) and (max-height : 300px) {
+	.down-for-maintenance-msg {margin-top: 50px;}
+}

@@ -1,0 +1,63 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "119",
+				"studentAssignmentId": "119",
+                "assignmentName": "Cras malesuada commodo porttitor. Donec aliquet",
+                "packName": " Pack Name_19",
+                "goalId": "019",
+                "grading":"manual",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": "",
+                "subjectId":"GUID"
+            }
+        },
+        "item": {
+			"itemId": "41",
+            "code": "open-response",
+            "instructional_prompt": "<p>Based on Shan's actions in the passage, you may infer that she is:</p>",
+            "mechanical_prompt": "Click or tap on an answer",
+            "answer_type": "freeText",
+            "custom_text": "",
+            "studentResponse": {
+            	"studentResponseId": "",
+            	"responseData": "<p>The&nbsp;Indian economy&nbsp;is the world&#39;s eleventh-largest by&nbsp;nominal GDP&nbsp;and third-largest by&nbsp;purchasing power parity&nbsp;(PPP).[14]&nbsp;Following&nbsp;market-based economic reforms&nbsp;in 1991, India became one of the&nbsp;fastest-growing major economies; it is considered a&nbsp;newly industrialised country. However, it continues to face the challenges of&nbsp;poverty,&nbsp;corruption,&nbsp;<strong>malnutrition</strong>,&nbsp;inadequate public healthcare, and&nbsp;terrorism. A&nbsp;nuclear weapons state&nbsp;and a&nbsp;regional power, it has the&nbsp;third-largest standing army&nbsp;in the world and ranks&nbsp;eighth in military expenditure&nbsp;among nations. India is a&nbsp;federal&nbsp;constitutional republic&nbsp;governed under a&nbsp;parliamentary system&nbsp;consisting of&nbsp;28 states and 7 union territories. India is a pluralistic,&nbsp;multilingual, and a multi-ethnic society. It is also home to a diversity of&nbsp;wildlife&nbsp;in a variety of&nbsp;protected habitats.</p><p>The&nbsp;Indian economy&nbsp;is the world&#39;s eleventh-largest by&nbsp;nominal GDP&nbsp;and third-largest by&nbsp;purchasing power parity&nbsp;(PPP).[14]&nbsp;Following&nbsp;market-based economic reforms&nbsp;in 1991, India became one of the&nbsp;fastest-growing major economies; it is considered a&nbsp;newly industrialised country. However, it continues to face the challenges of&nbsp;poverty,&nbsp;corruption,&nbsp;<strong>malnutrition</strong>,&nbsp;inadequate public healthcare, and&nbsp;terrorism. A&nbsp;nuclear weapons state&nbsp;and a&nbsp;regional power, it has the&nbsp;third-largest standing army&nbsp;in the world and ranks&nbsp;eighth in military expenditure&nbsp;among nations. India is a&nbsp;federal&nbsp;constitutional republic&nbsp;governed under a&nbsp;parliamentary system&nbsp;consisting of&nbsp;28 states and 7 union territories. India is a pluralistic,&nbsp;multilingual, and a multi-ethnic society. It is also home to a diversity of&nbsp;wildlife&nbsp;in a variety of&nbsp;protected habitats.</p><p>The&nbsp;Indian economy&nbsp;is the world&#39;s eleventh-largest by&nbsp;nominal GDP&nbsp;and third-largest by&nbsp;purchasing power parity&nbsp;(PPP).[14]&nbsp;Following&nbsp;market-based economic reforms&nbsp;in 1991, India became one of the&nbsp;fastest-growing major economies; it is considered a&nbsp;newly industrialised country. However, it continues to face the challenges of&nbsp;poverty,&nbsp;corruption,&nbsp;<strong>malnutrition</strong>,&nbsp;inadequate public healthcare, and&nbsp;terrorism. A&nbsp;nuclear weapons state&nbsp;and a&nbsp;regional power, it has the&nbsp;third-largest standing army&nbsp;in the world and ranks&nbsp;eighth in military expenditure&nbsp;among nations. India is a&nbsp;federal&nbsp;constitutional republic&nbsp;governed under a&nbsp;parliamentary system&nbsp;consisting of&nbsp;28 states and 7 union territories. India is a pluralistic,&nbsp;multilingual, and a multi-ethnic society. It is also home to a diversity of&nbsp;wildlife&nbsp;in a variety of&nbsp;protected habitats.</p>",
+            	"submittedDate": ""
+            },
+            "assets_used": [
+                {
+                    "asset_type": "selection",
+                    "asset_id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(20).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+                    "text": "<h2 class=\"body1-psg-hd2\">from Xxxxxx</h2><h1 class=\"body1-psg-hd1\">Main Head</h1><h2 class=\"body1-psg-hd3\">by Xxxx Xxxxx</h2><h2 class=\"body1-psg-hd4\">Subhead</h2><div class=\"floated-div\">1</div><p class=\"body1-psg-ind\"><span class=\"italic\">This paragraph is indented but it is not numbered. This is the intro to the passage and that's why it's in ital. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</span></p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><div class=\"floated-div\">5</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">10</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">15</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind2-indfl\">This paragraph has an extra level of indent and first-line indent. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eu libero sit amet quam egestas semper.</p>",
+                    "start": 0,
+                    "end": 2493,
+                    "index": 1
+                }
+            ],
+            "hints_used": 1,
+            "hints_total": 2
+        }
+    }
+}

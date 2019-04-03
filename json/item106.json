@@ -1,0 +1,82 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "hen",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "106",
+				"studentAssignmentId": "106",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "006",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+        "lastItem": "false",
+        "item": {
+			"itemId": "43",
+            "code": "embed-in-image",
+            "background_asset_id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(bg).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+            "instructional_prompt": "<p>Use the appropriate words to solve the problem</p>",
+            "mechanical_prompt": "Select or fill in the correct answer",
+            "ignore_case": false,
+            "restrict_length": false,
+            "embed_in_image_available_answers": {
+                "answer": [
+                    {
+                        "index": 0,
+                        "type": "select",
+                        "options": [
+                            "cat",
+                            "dog",
+                            "baby",
+                            "fish"
+                        ],
+                        "css": {
+                            "top": 265,
+                            "left": 335
+                        }
+                    },
+                    {
+                        "index": 1,
+                        "type": "input",
+                        "options": [],
+                        "css": {
+                            "top": 303,
+                            "left": 331
+                        },
+                        "maxlength": 8
+                    }
+                ]
+            },
+            "assets_used": [
+                {
+                    "asset_id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(bg).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+                    "asset_value": "images/fields_over_image.png",
+                    "asset_type": "background"
+                }
+            ],
+            "hints_total": 2
+        }
+    }
+}

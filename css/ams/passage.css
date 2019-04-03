@@ -1,0 +1,484 @@
+@import url("//hello.myfonts.net/count/2d260f"); 
+@font-face {font-family: 'HelveticaTextbookCom-Roman';src: url('webfonts/2D260F_0_0.eot');src: url('webfonts/2D260F_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D260F_0_0.woff2') format('woff2'),url('webfonts/2D260F_0_0.woff') format('woff'),url('webfonts/2D260F_0_0.ttf') format('truetype');}
+@font-face {font-family: 'HelveticaTextbookCom-Bold';src: url('webfonts/2D260F_1_0.eot');src: url('webfonts/2D260F_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D260F_1_0.woff2') format('woff2'),url('webfonts/2D260F_1_0.woff') format('woff'),url('webfonts/2D260F_1_0.ttf') format('truetype');}
+@import url("//hello.myfonts.net/count/2d97ed");
+@font-face {font-family: 'HelveticaTextbookCom-Oblique';src: url('webfonts/2D97ED_0_0.eot');src: url('webfonts/2D97ED_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2D97ED_0_0.woff2') format('woff2'),url('webfonts/2D97ED_0_0.woff') format('woff'),url('webfonts/2D97ED_0_0.ttf') format('truetype');}
+ 
+.passage, .passage * {
+	line-height: normal !important;
+	text-shadow: none !important; 
+	margin: 0 !important;
+	padding: 0 !important;	
+	vertical-align: baseline !important;
+}
+
+
+.passage.p:not([class*="lg"]), .passage.p:not([class*="lg"]) * {
+	font-size: medium !important;
+}
+
+
+.passage table{ border-collapse:collapse !important; margin: 12px 0 24px 40px !important; border: 1px solid black !important; padding-bottom:24px !important;}
+.passage td{ padding: 10px !important;  font-size: medium !important;}
+.passage sup{ font-size:11px !important; }
+.passage sub{ font-size:11px !important; vertical-align:bottom !important;}
+.passage ul li{list-style-type:disc;font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.passage ol li{list-style-type:decimal;font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.passage p,ol,ul{color : #222 !important;	}
+
+
+.passage .body1-psg-poem-ind3-sp{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 130px !important;
+  padding-bottom:22px !important;
+}
+
+.passage .body1-psg-poem-ind3{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 130px !important;
+}
+
+.passage .body1-psg-poem-ind2-sp{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 100px !important;
+  padding-bottom:22px !important;
+}
+
+.passage .body1-psg-poem-ind2{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 100px !important;
+}
+
+.passage .body1-psg-poem-ind-sp{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 70px !important;
+  padding-bottom:22px !important;
+}
+
+.passage .body1-psg-poem-ind{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 70px !important;
+}
+
+.passage .caption1-a{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  text-align:center !important;
+  font-weight:bold !important;
+  padding-bottom:22px !important;
+}
+
+.passage .body1-psg-paragraph-num{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;  
+  float:left !important;
+  margin:12px 0 0 10px !important;
+}
+
+.passage .body1-psg-hd-boxed{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  font-weight:bold !important;
+}
+
+.passage .body1-psg-boxed{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  padding:12px 0 0 0 !important;
+}
+
+.passage .body1-psg-divider{
+  width:40% !important;
+  margin:40px 0 30px 18px !important;
+  border-bottom: 2px solid #666 !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+
+.passage .body1-psg-footnote{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:90% !important;
+  margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-poem-sp{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 40px !important;
+  padding-bottom:22px !important;
+}
+
+.passage .body1-psg-poem{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-ind2{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  margin:12px 0 0 80px !important;
+}
+
+.passage .body1-psg-list{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:500px !important;
+  margin:6px 0 0 60px !important;
+}
+
+.passage .body1-psg-ind{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	width:550px !important;
+	margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-characters{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;  
+  margin-left:40px !important;
+  font-weight:bold !important;
+  font-style:italic !important;
+}
+
+.passage .body1-psg-hd7{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:20px !important;
+  text-align:center !important;
+  font-weight:bold !important;
+  margin: 12px 0px 12px 0px !important;
+}
+
+.passage .body1-psg-hd6{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin-left:40px !important;
+  font-weight:bold !important;
+  margin-top:12px !important;
+}
+
+.passage .body1-psg-hd5-a{
+ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+ width:550px !important;
+ font-size:22px !important;
+ font-weight:bold !important;
+ margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-hd5{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  font-size:22px !important;
+  font-weight:bold !important;
+  text-align:center !important;
+  margin-top:12px !important;
+}
+
+.passage .body1-psg-hd4{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  font-weight:bold !important;
+  margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-hd3-a{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  font-style:italic !important;
+  padding-bottom:12px !important;
+  margin-left:40px !important;
+}
+
+.passage .body1-psg-hd3{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	font-size:18px !important;
+	text-align:center !important;
+	font-style:italic !important;
+	padding-bottom:12px !important;
+}
+
+.passage p.body1-psg-hd2-a{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	width:550px !important;
+	font-size:18px !important;
+	font-style:italic !important;
+	margin:12px 0 0 40px !important;
+}
+
+.passage .body1-psg-hd2{
+ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+ font-size:18px !important;
+ text-align:center !important;
+ font-style:italic !important;
+ margin-top:12px !important;
+}
+
+.passage .body1-psg-hd1-a{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  width:550px !important;
+  font-size:24px !important;
+  font-weight:bold !important;
+  margin-left:40px !important;
+}
+
+.passage .body1-psg-hd1{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  font-size:24px !important;
+  font-weight:bold !important;
+  text-align:center !important;
+}
+
+.passage .body1-img-center{
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  display:block !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+  padding: 18px 0 0 0 !important;
+  text-align:center !important;
+}
+
+.passage .lg-body1-psg-poem-ind3-sp{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 140px !important;
+  padding-bottom:22px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-ind3{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 140px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-ind2-sp{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 110px !important;
+  padding-bottom:22px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-ind2{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 110px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-ind-sp{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 80px !important;
+  padding-bottom:22px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-ind{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 80px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-caption1-a{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important; 
+  font-size:18px !important;
+  text-align:center !important; 
+  padding-bottom:22px !important; 
+  line-height:1.5 !important; 
+}
+
+.passage .lg-body1-psg-paragraph-num{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  font-size:18px !important;  
+  float:left !important;
+  margin:10px 0 0 10px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd-boxed{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  font-size:18px !important;
+}
+
+.passage .lg-body1-psg-boxed{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  font-size:18px !important;
+  padding:12px 0 0 0 !important;
+}
+
+.passage .lg-body1-psg-footnote{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:90% !important;
+  margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem-sp{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 50px !important;
+  padding-bottom:22px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-poem{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-ind2{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;
+  margin:10px 0 0 90px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-list{
+  font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+  width:500px !important;
+  font-size:18px !important;
+  margin:6px 0 0 60px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-ind{
+	font-family:HelveticaTextbookCom-Roman, Arial, Helvetica, sans-serif !important;
+	width:550px !important;
+  font-size:18px !important;
+	margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+
+.passage .lg-body1-psg-ind-it{
+	font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+	width:550px !important;
+  font-size:18px !important;
+	margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-characters{
+  font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:18px !important;  
+  margin-left:50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd7{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:22px !important;
+  text-align:center !important;
+  line-height:1.5 !important;
+  margin: 10px 0px 12px 0px !important;
+}
+
+.passage .lg-body1-psg-hd6{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:20px !important;
+  margin-left:50px !important;
+  margin-top:10px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd5-a{
+ font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important; 
+ width:550px !important;
+ font-size:24px !important;
+ margin:10px 0 0 50px !important;
+ line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd5{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  font-size:24px !important; 
+  text-align:center !important;
+  margin-top:10px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd4{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:20px !important; 
+  margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd3-a{
+  font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:20px !important; 
+  padding-bottom:12px !important;
+  margin-left:50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd3{
+	font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+	font-size:20px !important; 
+	text-align:center !important;
+	padding-bottom:12px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd2-a{
+	font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+	width:550px !important;
+	font-size:20px !important; 
+	margin:10px 0 0 50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd2{
+ font-family:HelveticaTextbookCom-Oblique, Arial, Helvetica, sans-serif !important;
+ font-size:20px !important;
+ text-align:center !important;
+ margin-top:10px !important;
+ line-height:1.5 !important; 
+}
+
+.passage .lg-body1-psg-hd1-a{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  width:550px !important;
+  font-size:26px !important; 
+  margin-left:50px !important;
+  line-height:1.5 !important;
+}
+
+.passage .lg-body1-psg-hd1{
+  font-family:HelveticaTextbookCom-Bold, Arial, Helvetica, sans-serif !important;
+  font-size:26px !important;
+  text-align:center !important;
+  line-height:1.5 !important;
+}
+.passage .body1-psg-hd1 thspan{ 
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
+	font-size:26px !important;
+	text-align:center !important;
+	line-height:1.5 !important;
+  }
+

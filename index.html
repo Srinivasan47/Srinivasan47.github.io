@@ -1,97 +1,666 @@
-<!doctype html>
+<!DOCTYPE HTML>
 <html>
-  <head>
-   <meta charset="utf-8">
-  </head>
-<body>
-<div class="scroll" style="position:absolute; overflow:scroll; -webkit-overflow-scrolling: touch; top:0; left:0; bottom:0; right:0">
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
+<head>
+<meta name="viewport" content="width=device-height, minimum-scale=1, initial-scale=1.0, user-scalable=0">
+<meta charset="utf-8">
+<title>Triumph Learning - Get Waggle</title>
+<link rel="SHORTCUT ICON"  type="image/x-icon" href="assets/images/favicon.ico" />
+<link href="css/foundation/normalize.css" type="text/css" rel="stylesheet"/>
+<link href="css/foundation/foundation.css" type="text/css" rel="stylesheet"/>
+<link href="css/triumph/ui-components.css" type="text/css" rel="stylesheet"/>
+<link rel="stylesheet" media="all" href="css/ams/passage.css" />
+<link type="text/css" rel="stylesheet" href="css/ams/canvas.css" />
+<!-- <link type="text/css" rel="stylesheet" href="css/ams/MyFontsWebfontsKit.css" /> -->
+<link rel="stylesheet" href="css/ams/uniform.aristo.css" />
+<!-- <link rel="stylesheet" media="all" href="css/ams/reset.css" />  -->
+<link rel="stylesheet" href="css/ams/jquery.calculator.css" />
+<link href="css/triumph/global.css" type="text/css" rel="stylesheet"/>
 
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis.
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tortor urna, euismod ac pretium id, ornare sit amet elit. Suspendisse in eleifend tellus, et semper dolor. Aliquam nec convallis orci. Pellentesque ultricies, odio id tincidunt tempus, leo nisl fermentum orci, at pulvinar mauris diam vel urna. Nulla dui turpis, aliquam tempor massa ac, venenatis facilisis enim. Pellentesque finibus ligula a odio molestie, eget blandit augue iaculis. Maecenas finibus tristique iaculis. Mauris commodo, neque suscipit eleifend mollis, ligula arcu molestie quam, aliquam aliquam nulla elit pulvinar libero. Donec accumsan, orci et eleifend imperdiet, diam lacus luctus lacus, eu tempus massa massa ut lectus. Integer interdum augue at ex tristique lobortis. Pellentesque nec dignissim diam, vel mollis eros. Morbi maximus, arcu a porttitor lacinia, ante ipsum semper tellus, sed aliquam elit ligula et diam. Etiam id nisi ut est consequat tincidunt. Fusce dictum ipsum sit amet nulla fringilla, non commodo orci tincidunt.
-
-Nam finibus varius rhoncus. Fusce vel leo pulvinar mauris ullamcorper eleifend eu ut massa. Morbi vestibulum erat eget enim dictum ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In non purus turpis. In bibendum gravida odio viverra venenatis. Aenean id magna iaculis, iaculis ante vitae, maximus ipsum. Duis fermentum enim eget elit efficitur, eu bibendum nibh sollicitudin.
-
-Aliquam gravida rutrum risus, id molestie lectus efficitur vitae. Nullam sollicitudin felis tincidunt ultrices mattis. Donec euismod rhoncus libero, vitae facilisis lacus pellentesque at. Donec vel elementum nisl. Aenean nulla lorem, vehicula at faucibus vitae, imperdiet sit amet tellus. Proin odio magna, luctus at nibh et, commodo placerat justo. Morbi tincidunt interdum eros tempus varius. Nullam consequat mauris vestibulum nisl tempor suscipit eget sed nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur at venenatis est. Proin lorem sem, rutrum quis porta non, luctus eget ipsum. Vestibulum feugiat sagittis nunc eu vulputate. Curabitur eu enim maximus, tincidunt nibh ac, posuere libero. Nunc vitae vestibulum mi. Suspendisse lacus nulla, feugiat a libero at, malesuada mollis lacus. Nulla eu aliquam enim.
-
-Phasellus congue arcu id lorem maximus, eu pharetra eros rutrum. Vestibulum pretium ullamcorper erat, a scelerisque tortor iaculis quis. Etiam varius imperdiet ullamcorper. Pellentesque ac tempus leo. Mauris sollicitudin vel odio quis fringilla. Pellentesque tempor ligula at fermentum scelerisque. Nunc aliquam, enim vel congue ultrices, odio diam dictum ante, id pellentesque magna ex in arcu. Pellentesque non volutpat nisi, aliquam tincidunt diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce maximus tempor tortor, nec feugiat odio tincidunt ut. Integer rhoncus auctor justo sit amet iaculis.  
-</div>
-</body>
-
+<!-- Google Analytics -->
 <script>
-var overscroll = function(el) {
-  el.addEventListener('touchstart', function() {
-    var top = el.scrollTop
-      , totalScroll = el.scrollHeight
-      , currentScroll = top + el.offsetHeight
+	/* (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); */
+	
+	/* ga('create', 'UA-51175059-1', {'cookieDomain': 'none'}); */
 
-    //If we're at the top or the bottom of the containers
-    //scroll, push up or down one pixel.
-    //
-    //this prevents the scroll from "passing through" to
-    //the body.
-    if(top === 0) {
-      el.scrollTop = 1
-    } else if(currentScroll === totalScroll) {
-      el.scrollTop = top - 1
-    }
-  })
-
-  el.addEventListener('touchmove', function(evt) {
-    //if the content is actually scrollable, i.e. the content is long enough
-    //that scrolling can occur
-    if(el.offsetHeight < el.scrollHeight)
-      evt._isScroller = true
-  })
-}
-
-overscroll(document.querySelector('.scroll'));
-
-document.body.addEventListener('touchmove', function(evt) {
-  //In this case, the default behavior is scrolling the body, which
-  //would result in an overflow.  Since we don't want that, we preventDefault.
-  if(!evt._isScroller) {
-    evt.preventDefault()
-  }
-})
 </script>
+<!-- End Google Analytics -->
+
+<script type="text/javascript" src="js/answer_mech/config.js"></script>
+<script language="javascript">	
+	var enableTimeout = "off",	//Jira GW-1494 [Common : Disable Session Timeout Popup by on/off or not defining the variable itself]
+		locale = "en-us",
+		AMEnvironment = '', //Environment Path for AM, This variable will be used in lift.js
+		signOutUrl = "http://www.gogetwaggle.com",
+		baseInstructURL = "http://www.gogetwaggle.com",
+		instructDashboardUrl = "/student/dashboard.html",
+		redirectVia = false,
+		gaPublishId = 'UA-51175059-1'; // 'gaPublishId' is used in controller.js
+
+	var dName = document.domain;
+	if ((dName.indexOf(".com") > -1) && (dName.indexOf(".") > -1)) {
+	  	var dNameArr = dName.split(".");
+	  	if(dNameArr.length>1) {
+	  		dName = dNameArr[dNameArr.length-2]+"."+dNameArr[dNameArr.length-1];
+	  	}
+	  	try {
+	    	document.domain = dName;
+	  	} catch(err) {
+	  		console.log(err);
+	  	}
+	}
+</script>
+</head>
+
+<body class="no-touch" onhashchange="read_hash();">
+
+<!-- growl message - starts -->	
+	<div id="growlMessageWrapper" class="growl-message-wrapper">	
+		<div class="growl-message-container">			
+			<!--<span class="alert-icon-holder"><span class="growl-message-left"></span></span>-->
+			<span class="growl-message-right"></span>						
+		</div>
+	</div>	
+<!-- growl message - ends -->
+
+<ul id="background_lines"></ul>
+<div id="mainWrapper" class="row main-container">
+
+   	<div id="progressBar" class="loading-wrapper">
+	   	<!-- <div id="ajaxloader"></div> -->
+		<div class="spinner">
+		  <div class="rect1"></div>
+		  <div class="rect2"></div>
+		  <div class="rect3"></div>
+		  <div class="rect4"></div>
+		  <div class="rect5"></div>
+		</div>
+		<span class="loading hide-before-page-load">{{label.message.inProgress}}</span>
+  		<!-- <span class="loading hide-before-page-load">{{label.message.inProgress}}</span> --> <!-- Updating your information one moment... -->
+  	</div>
+  	
+<!-- AMS Starts -->
+  <header id="headerWrapper2"> <!-- class="hide" style="top:-400px;" -->  	
+  </header>
+
+<div id="app_exercise_container" >
+	<noscript>You must have JavaScript enabled to use this site.</noscript>
+</div>
+    
+      <script type="text/template" id="toolkit_template">
+      </script>
+
+      <script type="text/template" id="canvas_template">
+        <canvas id="<%= canvas_id %>" width="950" height="496">
+          Your browser does not support the &lt;canvas&gt; element!
+        </canvas>
+		<canvas id="c" style="display:none"></canvas>
+		<canvas id="c1" style="display:none"></canvas>
+      </script>
+      
+      <script type="text/template" id="Review_details">
+		<div class="ams-body-wrapper">
+			<div class="collapse ams-body-content">
+				<div class="left ams-left-container">
+					<div class="graded-open-text-holder">
+						<div class="row collapse">
+							<span class="left">{{label.ams.graded.yourResponse}}</span>
+							<span class="right"><a class="print-icon-msg" href="javascript:;" onclick="printResponseDetails(true)">Print</a></span>
+						</div>
+						<div class="graded-open-text"><%= instructional_prompt %></div>
+						<div class="graded-open-textarea flexcroll" id="app_exercise_left1"><%= student_response %></div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+      </script>
+      <script type="text/template" id="Review_skill_rating">
+      	<div class="left ams-right-container flexholder" >
+			<div class="flexcroll" id="ams-right-panel"  style="height:495px;">
+				<div class="graded-open-text-holder">
+					<div class="row collapse">
+						<span class="text-left">{{label.ams.graded.teacherFeedback}}</span>
+					</div>
+					<div class="skill-holder">
+						<div class="skill-great-holder text-center">
+							<span><%= rating %></span>
+							<!--<span class="skill-good">Good!</span-->
+							<!--span class="skill-keep-at-it">Keep at it!</span-->
+							<span class="skill-text"><%= teacher_response %></span>
+						</div>
+						<div class="skill-slider-holder">
+							<span class="text-left">{{label.ams.graded.howYouDid}}</span>
+							<ul class="skill-slider">	
+								<li class="skill-rank" id="great">4</li>
+								<li class="skill-rank" id="good">3</li>
+								<li class="skill-rank" id="keepatit">2</li>
+								<li class="skill-rank" id="needImprovement">1</li>
+							</ul>
+							<div class="skill-rank-text">
+								<span class="left">{{label.ams.graded.great}}</span>
+								<span class="right">{{label.ams.graded.needImprovement}}</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+      </script>
+      <script type="text/template" id="Review_skills_details">
+			<div class="skill-details">
+				<span class="skill-count"><%= skill_count %></span>
+				<span class="skill-title"><%= skill_title %></span>	
+				<span class="skill-desc"><%= skill_desc %></span>
+			</div>
+	  </script>
+      <script type="text/template" id="showOpenResponsePopup">
+		<div id="openResponsePopup" class="open-response-modal">
+			<a class="close-modal" onclick="closepopup()"></a>
+		    <div class="session-message-wrapper">
+		    	<span class="session-cloudy-one"></span>
+		        <span class="try-again-session-message-box">
+		        	<%= popup_text %>
+		        </span>
+		    </div>
+		    <div class="sessions-button-wrapper">
+		    	<a class="button-blue" onclick="closepopup()">OK!</a>
+		    </div>
+		</div>
+	  </script>
+	  <script type="text/template" id="openresponsePrint">
+        	<div class='student-boarding'>
+				<div class='message-boarding'>
+					<div class='message-print-first'>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.printPreview.class}}:</div>
+							<div class='right-print-content  class'><%= class_name %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.printPreview.date}}:</div>
+							<div class='right-print-content date'><%= date %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.printPreview.goal}}:</div>
+							<div class='right-print-content goal'><%= goal_name %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.printPreview.Instructions}}:</div>
+							<div class='right-print-content message'><%= instructional_prompt %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.printPreview.StudentResponse}}:</div>
+							<div class='right-print-content message'><%= student_response %></div>
+						</div>
+					</div>
+				</div>
+			</div>
+      </script>
+      <script type="text/template" id="openresponseGradedPrint">
+        	<div class='student-boarding'>
+				<div class='message-boarding'>
+					<div class='message-print-first'>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.class}}:</div>
+							<div class='right-print-content class'><%= class_name %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.date}}:</div>
+							<div class='right-print-content date'><%= date %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.goal}}:</div>
+							<div class='right-print-content goal'><%= goal_name %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.instructions}}:</div>
+							<div class='right-print-content message'><%= instructional_prompt %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.teacherComments}}:</div>
+							<div class='right-print-content teacher-comments'><%= teacher_comments %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.howYouDid}}
+								<div class="how-you-did">	
+									<span class='print-skill-from'>4 {{label.ams.graded.printPreview.great}} </span>
+									<span class='print-skill-to'>to </span>
+									<span class='print-skill-to-improvement'>1 {{label.ams.graded.printPreview.needImprovement}} </span>
+								</div>
+							</div>
+							<div class='right-print-content'><%= how_you_did %></div>
+						</div>
+						<div class='row-print'>
+							<div class='left-print-content'>{{label.ams.graded.printPreview.studentResponse}}:</div>
+							<div class='right-print-content response-message'><%= student_response %></div>
+						</div>
+					</div>
+				</div>
+			</div>
+      </script>
+      <script type="text/template" id="openresponseSkillsPrint">
+		<div><%= skill_title %></div><div class="printGradedSkills"><span class="print-skills-scale"><%= skill_scale %></span><span class="print-skills-desc"><%= skill_desc %></span></div>
+	  </script>
+	 
+      <script type="text/template" id="hintbox_template">
+        <%= hint_audio %>
+        <a href="javascript:;" id="app_hint_close"><img src="images/btn13x26-close_hint.png" border="0" /></a>
+        <div id="app_hint_body"><%= hint_message %></div>
+      </script>
+      <script type="text/template" id="hintbox_overlay_template">
+        <img src="<%= hint_sketch %>" id="hint_overlay" />
+      </script>
+      <div id="app_hint_overlay"></div>
+      <div id="app_hint"></div>
+
+    <!-- </div> -->
+    
+    <div id="goBackMessagePopUp" class="review-skills-popup popup-messages hide">
+		<div class="message-contents">Are you sure you want to return <br/>to your dashboard?</div> 
+	    <div class="goback-button-wrapper">
+	        <a class="button-blue goback-cancel" href="javascript:;">Cancel</a>
+	        <a class="button-blue goback-submit" href="javascript:;">Yes</a>
+	    </div>    
+	</div>
+	
+	<!-- Check my browser PopUp - Starts -->
+	<div id="browserMessageModalOverlay" class="browser-support-overlay hide"></div>	
+	<div id="checkMyBrowserPopUp" class=" hide browser-support-popup" >
+		<div class="browser-support-title">
+			Your browser is not supported 
+			<a class="close-wrapper right browser-info-ok-js" href="javascript:;"></a>
+			<div class="browser-support-msg">
+				Please download and install one of the supported browsers listed below. <br>
+				Are you in a computer lab? Get help from an administrator <br>
+				<span class="browser-list">
+				Internet Explorer version 10 or above<br>
+				Chrome <br>
+				Safari <br>
+				Firefox <br>
+				</span>
+			</div>
+		</div>
+	    <div class="goback-button-wrapper">
+	        <a class="button-blue goback-custom browser-info-ok-js" href="javascript:;">OK</a>	        
+	    </div>    
+	</div>
+	<!-- Check my browser PopUp - Ends -->
+	
+	<!-- Report Bad Question Modal PopUp - Starts -->
+	<div id="reportBadQuestionModalOverlay" class="browser-support-overlay hide"></div>	
+	<div id="reportBadQuestionModal" class="hide report-bad-question" >
+		<div class="browser-support-title">
+			Something not right? 
+			<a class="close-wrapper right browser-info-ok-js close-report-bad-question-Modal-js" href="javascript:;"></a>
+			<div class="report-text">
+				If something is broken on the screen, tell us about it and click Send.
+				If you do not understand the question and need help, ask your teacher. <br>
+				
+				<div class="left skills-header question-dropdown-holder">													
+					<form class="custom">
+						<span><strong>What is wrong? </strong></span>
+						<!-- <div class="custom dropdown medium choose-questions">
+							<a href="javascript:;" class="current">Choose One</a>
+							<a href="javascript:;" class="selector"></a>
+							<ul>				  
+								<li class="selected">Choose One</li>
+								<li>Something I need to click or move is not working or missing.</li>
+								<li>The tool is not working.</li>
+								<li>I see a word spelled incorrectly.</li>
+								<li>I see a grammar mistake.</li>
+							</ul>
+						</div> -->
+						
+						<select id="badQuestionReasons" class="medium hide"></select>
+						<div class="custom dropdown medium choose-questions" id="chooseBadQuestionOptions">
+							<a href="javascript:;" class="current">Choose One</a>
+							<a href="javascript:;" class="selector"></a>
+							<ul></ul>
+						</div>
+						
+						<div class="comments-holder">
+							<strong>Comments </strong>
+							<textarea id="badQuestionDescription" class="comments" placeholder="Describe the problem (optional)" name="feedback" cols="240" rows="8"></textarea>
+						</div>
+						
+					</form>
+				</div>
+			</div>
+		</div>
+	    <div class="report-button-wrapper">
+			<a class="cancel-button close-report-bad-question-Modal-js" href="javascript:;">Cancel</a>
+	        <a id="sendBadQuestion" class="button-blue goback-custom browser-info-ok-js" href="javascript:;">Send</a>	        
+	    </div>    
+	</div>
+	<!-- Report Bad Question Modal PopUp - Ends -->
+	
+	<!-- Portrait view - Turn tablet on its side PopUp - Starts -->
+	<div id="checkPortviewoverlay" class="browser-support-overlay hide"></div>	
+	<div id="checkPortview" class="portrait-view-popup hide" >
+		<div class="browser-support-title">
+			Turn tablet on its side 
+			<a id="close" class="close-wrapper right" href="javascript:;"></a>
+			<div class="browser-support-msg">
+				GET Waggle works best when viewed horizontally (on its side).<br>
+				<span class="browser-support-msg">
+				<span id="check" class="custom-check"></span> Don't show me this message again.
+				</span>
+			</div>
+		</div>
+	    <div class="goback-button-wrapper">
+	        <a id="ok" class="button-blue goback-custom browser-info-ok-js" href="javascript:;">OK</a>	        
+	    </div>    
+	</div>
+	<!-- Portrait view - Turn tablet on its side PopUp - Ends -->
+	
+	<!-- Remediation PopUp - Starts -->
+	<div id="remediationPopUp" class="review-skills-popup popup-messages hide">
+		<div class="message-contents"></div>
+	    <div class="goback-button-wrapper">
+	        <!-- <a class="button-blue goback-cancel" href="javascript:;">Cancel</a> -->
+	        <a class="button-blue" id="remediationOk" href="javascript:;">OK</a>
+	    </div>    
+	</div>
+	<!-- Remediation PopUp - Ends -->
+		
+	<!-- Streak pop-up container -->
+	<div id="streakPopUp" class="streak-popup hide" onclick="handleStreak(true)"  style="cursor: pointer;" >
+	<div class="streak-pig"></div>
+	<hr class="streak-divider">
+	<div class="streak-value"></div>
+	<div class="streak-text">in a row</div>
+	</div>
+	
+<!-- AMS Ends --> 
+ 
+
+</div>
+    
+
+<!-- on Answer Mechanism when you receive message code ItemIDNotFound = 430  -->
+<div id="knewtonFailurePopup" class="open-response-modal hide">
+	<a  class="close-modal"></a>
+    <div class="session-message-wrapper">
+    	<span class="session-cloudy-one"></span>
+        <span class="try-again-session-message-box">        	
+        </span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a class="button-blue">OK!</a>
+    </div>
+</div>
+
+<!-- When Class has no teacher but the student assigned to the class, in this case we need to show this popup  -->
+<div id="classHasNoTeacher" class="open-response-modal hide">
+	<a  class="close-modal"></a>
+    <div class="session-message-wrapper">
+    	<span class="session-cloudy-one"></span>
+        <span class="try-again-session-message-box"></span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a class="button-blue">OK!</a>
+    </div>
+</div>
+
+<!-- Html code for AM 11 paused popup -->
+<div id="openResponsepopup" class="open-response-modal hide">
+	<a  class="close-modal"></a>
+    <div class="session-message-wrapper">
+    	<span class="session-cloudy-one"></span>
+        <span class="try-again-session-message-box">        	        	
+        </span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a class="button-blue">OK!</a>
+    </div>
+</div>
+
+<!-- Html code for AM 11 paused popup -->
+<div id="openResponseRetrypopup" class="open-response-modal hide">
+	<a  class="close-modal"></a>
+    <div class="session-message-wrapper">
+    	<span class="session-cloudy-one"></span>
+        <span class="try-again-session-message-box">        	
+        	{{label.ams.tryAgain.popUp}}
+        </span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a class="button-blue">OK!</a>
+    </div>
+</div>
+
+<!-- Html code for AM 11 last assignment popup -->
+<div id="openResponseLaseItemPopup" class="response-submitted-modal hide">
+	<a href="javascript:;" class="close-modal"></a>
+    <div class="">
+	<div class="response-message-head"></div> <!-- Your response has been submitted. -->
+    <div>	
+		<span class="response-submitted-cloudy"></span>
+        <span class="response-message-box">
+        	<!-- Once your teacher has graded it, you can continue with this goal. -->
+        </span>
+	</div>	
+    </div>
+    <div class="response-button-wrapper">
+    	<a href="javascript:;" class="button-blue">OK!</a>
+    </div>
+</div>
+
+<div id="hybridLastItemPopup" class="response-submitted-modal hide">
+	<a href="javascript:;" class="close-modal"></a>
+    <div class="">
+	<div class="response-message-head">Your response has been submitted.</div>
+    <div>	
+		<span class="response-submitted-cloudy"></span>
+        <span class="response-message-box">
+        	Once your teacher has graded it, you can continue with this goal.
+        </span>
+	</div>	
+    </div>
+    <div class="response-button-wrapper">
+    	<a href="javascript:;" class="button-blue">OK!</a>
+    </div>
+</div>
+
+<!--HTML code for Session Time Out modal popup-->
+<div id="sessionTimeOutpopup" class="session-timeout-modal hide">
+	<a class="close-modal"></a>
+    <div class="session-message-wrapper">
+    	<span class="session-cloudy-one"></span>
+        <span class="session-message-box">
+        	<!-- You'll be logged out in <span class="timer"></span> seconds. -->
+        	{{label.popup.sessionTimeoutPopup}}
+        </span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a class="button-blue">Continue</a>
+    </div>
+</div>
+  
+<!---assignment-status-popUp HTML's code: end--->
+
+<!--HTML code for server error message modal popup - starts -->
+<div id="errorMessageModal" class="error-message-modal hide">
+	<a href="javascript:;" class="close-modal close-server-error-modal-js"></a>
+    <div class="error-message-wrapper">
+		<div class="error-message-pig">
+			<svg width="10px" height="10px" version="1.1" xmlns="http://www.w3.org/2000/svg" class="landscape">							  						
+			  	<defs>
+					<path d="m24,61l19,-6l23,-3l22,-3l20,0l19,2l18,3l19,5l17,3l16,4l17,4l18,2l17,0l18,0l15,-2l13,-4l15,-2l12,-2" stroke-miterlimit="10" stroke="none" fill="none" xmlns="http://www.w3.org/2000/svg" id="textPath"/>
+				</defs>
+				<path fill="transparent" stroke="red" d="M0,110 Q150,65 265,110 T450,110"/>
+				<text fill="white" font-family="AkagiPro-Bold" font-size="31px" text-anchor="middle">
+					<textPath id="server-error-message-js" startOffset="50%" xlink:href="#textPath">OK</textPath>
+				</text>						
+			</svg>													
+			<svg width="350px" height="100px" version="1.1" xmlns="http://www.w3.org/2000/svg" class="portrait">												  						
+			  	<defs>
+					<path  d="m24,61l19,-6l23,-3l22,-3l20,0l19,2l18,3l19,5l17,3l16,4l17,4l18,2l17,0l18,0l15,-2l13,-4l15,-2l12,-2" stroke-miterlimit="10" stroke="none" fill="none" xmlns="http://www.w3.org/2000/svg" id="textPath2"/>
+				</defs>
+				<!-- <path d="M0,110 Q150,65 265,110 T450,110" stroke="red" fill="transparent"></path> -->
+				<text text-anchor="middle" font-size="21px" font-family="AkagiPro-Bold" fill="white">
+					<textPath id="server-error-message-js" xlink:href="#textPath2" startOffset="50%">OK</textPath>
+				</text>						
+			</svg>
+		</div>
+		
+        <span class="error-message-code">
+        	 <span id="error-code-message" class="error-code-message"></span>
+			<span class="error-code">Code : @#@</span>			
+        </span>
+    </div>
+    <div class="sessions-button-wrapper">
+    	<a href="javascript:;" class="button-blue close-server-error-modal-js">Close</a>
+    </div>
+</div>
+<!--HTML code for server error message modal popup - ends -->
+
+
+<!-- Disclaimer Starts -->
+<div class="disclaimer-modal hide">
+	<div class="disclaimer-header">
+    	<span><img src="images/logo-disclaimer.png" alt="Logo Disclaimer"/></span>
+        <span id="disclaimerCopyRightTop" class="copy-right-text"></span>
+        <span class="disclaimer-close disclaimer-close-js"></span>
+    </div>    
+    <div class="disclaimer-body">
+    	<iframe id="disclaimerIframe" class="disclaimer-iframe" frameborder="0"></iframe>
+    	<!-- <p>Neither Triumph Learning, Education Tools, LLC, nor Haights Cross Communications is affiliated with or endorsed in any way by the Consortium on Reading Excellence, Inc. (CORE)</p>
+        <p>The National Governors Association Center for Best Practices and Council of Chief State School Officers are the sole owners and developers of the Common Core State Standards, <span id="disclaimerCopyRightBottom" class="disclaimer-copyright-bottom"></span></p> -->
+    </div>
+</div>	
+<!-- Disclaimer Ends -->
+
+<!-- overlay starts from here -->
+<div id="windowOverlay" class="overlay hide" style="cursor: pointer;"></div>
+<div id="windowOverlay1" class="transparentOverlay hide"></div>
+<div id="errorMessageModalOverlay" class="error-message-modal-overlay hide"></div>
+<div id="progressBarOverlay" class="data-loading-overlay hide"></div>
+<!-- overlay starts ends here -->
+
+
+	
+<script src="js/vendor/jquery.js"></script>
+<script type="text/javascript" src="common/loading/loading.js"></script>
+<script type="text/javascript" src="common/portrait-view/portrait-view.js"></script>
+<script src="js/vendor/jquery-ui.min.js"></script>
+<script src="js/jquery.hammer.min.js"></script>
+<script src="js/vendor/jquery.tinycarousel.js"></script>
+<script src="js/vendor/jquery.mousewheel.js"></script>
+<script src="js/vendor/jquery.roundabout.js"></script>
+
+<script src="js/vendor/jquery.knob.js"></script>
+<script src="js/interface/flexcroll.js"></script>
+<script src="js/vendor/foundation.min.js"></script>
+<script src="js/init.js"></script>
+<script src="js/util.js"></script>
+
+<!-- <script src="js/skillMeterController.js"></script>
+<script src="js/liftMeterController.js"></script> 
+<script src="js/notesController.js"></script>
+<script src="js/analytics.js"></script>
+<script src="common/messaging/messaging.js"></script>  -->
+<script src="js/controller.js"></script>
+<script src="js/new-view.js"></script>
+
+<script src="js/animation.js"></script>
+<script src="js/model.js"></script>
+<script src="js/integration/integration.js"></script>		
+<script src="js/services.js"></script>
+<script src="js/app.js"></script>	
+
+<!-- <script src="js/skills.js"></script>
+<script src="js/feet.js"></script> --> 
+<!--[if IE 9]>
+<script src="js/iefallback.js"> </script>
+<![endif]-->
+
+<div id="preload"></div>
+<script>
+$(document).foundation();
+$(".small-menu-avatars").off('click.avtar').on('click.avtar', function(){
+	//changes for text2Speech
+	return false;
+	/* 	$(".small-header-wrapper").toggleClass('show-global-audio');
+	$("#headerWrapper2").toggleClass('over-canvas-box'); */
+});
+//added to hide the ams avtar to close on body click
+$("body").off('click.avtar').on('click.avtar', function(e) {
+	if( !$(e.target).is(".small-menu-avatars") ) {
+		$('.small-header-wrapper').removeClass('show-global-audio');
+	}
+	}); 
+
+$(document).ready(function(){
+	jQuery(window).load(function(){jQuery('body').width(jQuery('body').width()+1).width('auto')}); //Fonts are weird when assignment List is loaded on Dashboard! (GW-1548)
+	var options = window.waggleui.model.getWaggleProperties();
+	var copyrightLabel = "&#64; 2014 Triumph Learning, LLC. All Rights Reserved.";
+	
+	if (typeof copyrightLabel != 'undefined') {
+		if (copyrightLabel != ''){
+			$("#copyRightLabel, #disclaimerCopyRightTop, #disclaimerCopyRightBottom").html(copyrightLabel);	
+		}else{
+			$("#copyRightLabel, #disclaimerCopyRightTop, #disclaimerCopyRightBottom").html(options["label.footer.copyright"]);
+		}
+	}else{
+		$("#copyRightLabel, #disclaimerCopyRightTop, #disclaimerCopyRightBottom").html(options["label.footer.copyright"]);
+	}
+	
+	$("#assignmentsNotificationAnchor").attr("href",baseInstructURL+instructDashboardUrl);
+});
+
+
+$('.ams-audio-container, .hint-popup').off('click.soundOnOff').on('click.soundOnOff', '.audio-icon', function () {
+	var preferenceObj = {
+		'studentId': $('.avatar-name').attr('studentId')
+	}; 
+	$(this).toggleClass("play mute");
+	//preferenceObj = window.waggleui.model.getUserProfile();
+	if ($(this).hasClass('play')) {
+		preferenceObj.globalAudio = 'on';
+		//window.waggleui.services.saveAudio(preferenceObj);
+		window.waggleui.services.setAudio(preferenceObj);
+	} else {
+		preferenceObj.globalAudio = 'off';
+		//window.waggleui.services.saveAudio(preferenceObj);
+		window.waggleui.services.setAudio(preferenceObj);
+	}
+	window.waggleui.model.setUserProfile(preferenceObj);
+	hideHint();
+	setHintsSound();
+	//keep toggle for plugin on off
+});
+</script>
+
+<script type="text/javascript" src="js/interface/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="W/PQ+zvaQaeKqVvWrxU+/db06K0zCjC7eBPX6w==";</script>
+
+<!--script src="js/jquery/jquery-1.9.1.js"></script-->
+<script type="text/javascript" src="js/jquery/jquery.calculator.js"></script>
+<!--script src="js/jquery/jquery-ui-1.10.1.custom.min.js"></script-->
+<script src="js/interface/mathjax/MathJax.js?config=MML_HTMLorMML"></script>
+<script src="js/soundmanager/soundmanager2-nodebug-jsmin.js"></script>
+<script src="js/soundmanager/audiomanager.js"></script>
+
+<script type="text/javascript" src="js/integration/stubbedFunctions.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.columnizer.js"></script>
+<script type="text/javascript" src="js/interface/fabric.min.js"></script>
+<script type="text/javascript" src="js/interface/underscore-min.js"></script>
+<script type="text/javascript" src="js/interface/backbone-min.js"></script>
+
+<script type="text/javascript" src="js/answer_mech/am.js"></script>
+<script type="text/javascript" src="js/answer_mech/global.js"></script>
+
+<script type="text/javascript" src="js/answer_mech/base.js"></script>
+<script type="text/javascript" src="js/interface/lift.js"></script>
+<script type="text/javascript" src="js/answer_mech/recognition.js"></script>
+<script type="text/javascript" src="js/answer_mech/canvasController.js"></script>
+<script type="text/javascript" src="js/answer_mech/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="//triumphlearningtoolbar.speechstream.net/triumphlearning/speechstreamtoolbar.js"></script>
+ 
+</body>
 </html>

@@ -1,0 +1,343 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "classId": "24",
+		"classViewId": "24",
+		"classViewRegId": "24",
+        "className": "Mr. Jeff Goodsion",
+        "theme": "sapphire",
+        "showGames":"off",
+		"hasTeachers":"on",
+        "subjects": [
+            {
+                "subjectId": "1",
+                "subjectName": "Math"
+            },
+            {
+                "subjectId": "2",
+                "subjectName": "ELA"
+            }
+        ],
+        "hasClearedAssignments": "on",
+        "view": "assignments",
+        "assignments": [
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "101",
+					"studentAssignmentId": "101",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_1",
+                    "goalId": "001",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "102",
+					"studentAssignmentId": "102",
+                    "assignmentName": "Cras malesuada commodo porttitor. Donec aliquet",
+                    "packName": "PackName_2",
+                    "goalId": "002",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/30/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "on"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "103",
+					"studentAssignmentId": "103",
+                    "assignmentName": "Proin consequat at mi sed elementum. Vivamus",
+                    "packName": "PackName_3",
+                    "goalId": "003",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/24/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "104",
+					"studentAssignmentId": "104",
+                    "assignmentName": "Aliquam quam erat, vulputate vel ",
+                    "packName": "PackName_4",
+                    "goalId": "004",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/27/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "105",
+					"studentAssignmentId": "105",
+                    "assignmentName": "Suspendisse mattis, mi venenatis ornare placerat",
+                    "packName": "packName_5",
+                    "goalId": "005",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/24/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "106",
+					"studentAssignmentId": "106",
+                    "assignmentName": "Maecenas lectus nulla, dapibus eu est eget",
+                    "packName": "PackName_6",
+                    "goalId": "006",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/25/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "107",
+					"studentAssignmentId": "107",
+                    "assignmentName": "Nulla malesuada tincidunt iaculis. Sed et",
+                    "packName": "PackName_7",
+                    "goalId": "007",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/30/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "on"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "108",
+					"studentAssignmentId": "108",
+                    "assignmentName": "Fusce nec sodales nisl. Aenean",
+                    "packName": "PackName_8",
+                    "goalId": "008 ",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " ",
+                    "grading": "auto"
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/26/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            }
+        ],
+        "classSuggestions": [
+			{
+			   "label": "Show cleared goals for Mrs. Morris's Class",
+			   "classId": "18",
+			   "classViewId": "18",
+			   "classViewRegId": "18",
+			   "view": "assignments",
+			   "cleared": "on"
+
+		   },
+		   {
+			   "label": "Show goals for Mr. Emerson's Class",
+			   "classId": "12",
+			   "classViewId": "12",
+			   "classViewRegId": "12",
+			   "view": "assignments",
+			   "cleared": "off"
+		   },
+		   {
+			   "label": "Show cleared goals for Mr. Browning's Class",
+			   "classId": "15",
+			   "classViewId": "15",
+			   "classViewRegId": "15",
+			   "view": "assignments",
+			   "cleared": "on"
+		   },
+		   {
+			   "label": "Show cleared goals for Mr. Emerson's Class",
+			   "classId": "12",
+			   "classViewId": "12",
+			   "classViewRegId": "12",
+			   "view": "assignments",
+			   "cleared": "on"
+		   }
+		],
+        "rewards": {
+            "skillsAccquired": "122",
+            "flocksReleased": "0",
+            "feetTraveled": "1860"
+        },
+		"feetClouds": [
+			{"studentFeetCloudId":"GUID1", "value":50},
+			{"studentFeetCloudId":"GUID2", "value":50},
+			{"studentFeetCloudId":"GUID3", "value":30},
+			{"studentFeetCloudId":"GUID4", "value":40}
+		],
+		"flockClouds": [
+			{"studentFlockCloudId":"GUID1", "value":"large"},
+			{"studentFlockCloudId":"GUID2", "value":"small"},
+			{"studentFlockCloudId":"GUID3", "value":"small"}
+        ],
+        "messageClouds": [
+            {
+                "type": "urgency",
+                "message": "<span><strong>Congratulations!</strong> <br/> Your hard work will help you lift up in the world! You just traveled 12 feet.</span>",
+                "messageId": "1",
+                "messageGroup": "class"
+            },
+            {
+                "type": "urgency",
+                "message": "Yikes! You're late on 18 assignments! Better get cracking.",
+                "messageId": "2",
+                "messageGroup": "system"
+            },
+            {
+                "type": "excited",
+                "message": "<span><strong>Congratulations!</strong> <br/> You traveled <strong>+20 feet!</strong></span>",
+                "messageId": "3",
+                "messageGroup": "class"
+            }
+        ],
+		"alerts": [
+			{
+				"messageId": "1",
+				"messageHeader": "From Mrs. Morris Thomson MAY 23, 2013 4:30PM",
+				"message": "Mrs. Morris Thomson, 1. Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta. Etiam fringilla euismod lacus, at facilisis massa. Ut felis augue, ultrices vitae sapien eu, molestie placerat diam. Mauris ultricies felis ac porta tincidunt. Suspendisse potenti. Aliquam ultrices massa quis lectus semper congue. Praesent sed lacus nulla. Duis in lacus sit amet libero tincidunt porta."			
+			},
+			{
+				"messageId": "2",
+				"messageHeader": "From Mom MAY 21, 2013 1:04 PM",
+				"message": "Mrs. Morris Thomson, 2. Vestibulum laoreet in tortor condimentum congue. Suspendisse a tincidunt felis. Phasellus neque ipsum, consequat ut accumsan id, lacinia in urna. Nunc quis magna semper, laoreet dui quis, porttitor lectus. Vestibulum lobortis eros sit amet hendrerit accumsan."
+			},
+			{
+				"messageId": "3",
+				"messageHeader": "From Mrs. Morris Thomson MAY 13, 2013 10:30 AM",
+				"message": "Mrs. Morris Thomson, 3. Integer congue congue diam, nec aliquet orci malesuada vel. Mauris sed nisl purus. Phasellus egestas arcu turpis, et tristique diam suscipit eu. Nunc mauris lacus, pulvinar vitae elit at, auctor tristique ligula."
+			},
+			{
+				"messageId": "4",
+				"messageHeader": "From Mrs. Morris Thomson MAY 1, 2013 4:51 PM",
+				"message": "Mrs. Morris Thomson, 4. Nunc cursus id dui in scelerisque. Donec rhoncus risus ac aliquam egestas. Sed at ante a eros vulputate cursus. Curabitur gravida consequat urna, eget imperdiet magna vestibulum sed. Pellentesque nec nibh varius, suscipit tortor vel, lacinia est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			},
+			{
+				"messageId": "5",
+				"messageHeader": "From Mrs. Morris Thomson MAY 13, 2013 10:30 AM",
+				"message": "Mrs. Morris Thomson, 5. Nullam quis ante id nisl euismod congue. Cras suscipit quis tortor scelerisque pharetra."
+			},
+			{
+				"messageId": "6",
+				"messageHeader": "From Mrs. Morris Thomson MAY 1, 2013 4:51 PM",
+				"message": "Mrs. Morris Thomson, 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel sagittis eros, nec convallis lacus. Suspendisse nec tortor convallis, tempus massa id, pharetra neque. Suspendisse nec tortor convallis, tempus massa id, pharetra neque."
+			}		
+		]
+    }
+}

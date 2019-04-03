@@ -1,0 +1,17 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+   	 "flocksReleased":{
+   	 	 "small": "0",
+        "medium": "0",
+        "large": "0",
+        "golden": "0"
+   	 }
+    }
+}

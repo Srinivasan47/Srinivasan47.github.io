@@ -1,0 +1,9 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": "Answer has been submitted ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    }
+}

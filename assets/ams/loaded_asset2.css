@@ -1,0 +1,31 @@
+.scrollable_text {
+  font-family: "Georgia", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 19px;
+  color: #333;
+}
+
+.scrollable_text span {
+  
+}
+
+.scrollable_text strong {
+  color: #f00;
+}
+
+.scrollable_text h1 {
+  font-family: "Georgia", sans-serif;
+  font-size: 24px;
+  margin: 0 0 5px;
+}
+
+.scrollable_text h2 {
+  font-family: "Tahoma", Arial, sans-serif;
+  font-size: 14px;
+  color: #999;
+}
+
+.scrollable_text p {
+  padding: 10px 0;
+}
+

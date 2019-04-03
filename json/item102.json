@@ -1,0 +1,85 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "elephant",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "102",
+				"studentAssignmentId": "102",
+                "assignmentName": "Passage Solving",
+                "packName": " Pack Name",
+                "goalId": " Goal Id",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "select",
+            "instructional_prompt": "<p>How do you solve this question</p>",
+            "mechanical_prompt": "Click or tap on an answer",
+            "answer_type": "multiple",
+            "answer_label": "alpha",
+            "assets_used": [
+                {
+                    "asset_type": "selection",
+                    "asset_id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(20).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+                    "text": "<h2 class=\"body1-psg-hd2\">from Xxxxxx</h2><h1 class=\"body1-psg-hd1\">Main Head</h1><h2 class=\"body1-psg-hd3\">by Xxxx Xxxxx</h2><h2 class=\"body1-psg-hd4\">Subhead</h2><div class=\"floated-div\">1</div><p class=\"body1-psg-ind\"><span class=\"italic\">This paragraph is indented but it is not numbered. This is the intro to the passage and that's why it's in ital. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</span></p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><div class=\"floated-div\">5</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">10</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">15</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind2-indfl\">This paragraph has an extra level of indent and first-line indent. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eu libero sit amet quam egestas semper.</p>",
+                    "start": 0,
+                    "end": 2493,
+                    "index": 1
+                },
+                {
+                    "asset_id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(20).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+                    "text": "<h2 class=\"body1-psg-hd2\">from Xxxxxx</h2><h1 class=\"body1-psg-hd1\">Main Head</h1><h2 class=\"body1-psg-hd3\">by Xxxx Xxxxx</h2><h2 class=\"body1-psg-hd4\">Subhead</h2><div class=\"floated-div\">1</div><p class=\"body1-psg-ind\"><span class=\"italic\">This paragraph is indented but it is not numbered. This is the intro to the passage and that's why it's in ital. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</span></p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><div class=\"floated-div\">5</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">10</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">15</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind2-indfl\">This paragraph has an extra level of indent and first-line indent. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eu libero sit amet quam egestas semper.</p>",
+                    "asset_type": "passage",
+                    "index": 2
+                }
+            ],
+            "select_available_answers": {
+                "answer": [
+                    {
+                        "index": 0,
+                        "payload": "Cruel"
+                    },
+                    {
+                        "index": 1,
+                        "payload": "Greedy"
+                    },
+                    {
+                        "index": 2,
+                        "payload": "None of the above"
+                    }
+                ]
+            },
+            "hints_total": 3,
+            "hints_used": 2,
+            "art_notes": "Click the 'Notes' button to edit this message. Editorial Comments about the art requested are displayed here.",
+            "art_files": [
+                "assets/author_notes/grid1.png",
+                "assets/author_notes/richtext.rtf"
+            ],
+            "art_sketch": ""
+        }
+    }
+}

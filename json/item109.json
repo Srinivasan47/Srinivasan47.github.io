@@ -1,0 +1,93 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "109",
+				"studentAssignmentId": "109",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "009",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+		"item": {
+			"itemId": "41",
+			"code": "sort",
+			"instructional_prompt": "Type instructional prompt.",
+			"mechanical_prompt": "Type mechanical prompt.",
+			"validation_type": "region",
+			"answer_type": "region",
+			"bin_label_type": "equations",
+			"bin_type": "rectangles",
+			"bins": [
+				{
+					"index": "1",
+					"label": {
+						"mathml": "<math><mrow><msup><mi selected=\"true\">x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></math>",
+						"url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAQCAYAAAAGeBHHAAAB/UlEQVR42u2Ya7HCMBCFIwEJSKiESkACEioBCZWAhDoACUiohDrIvd+dOUwIod2UcMOP7kxm+ki6j5M9u6nzm1QXl7tgmiY/juMWuVognM9nfzwe/X6/98MwbNH7bxDIgOv1egejbdsterXoCAEMgCgtZNdut/POuSrZxkbrus6fTqePfJvvMvq+f4jfKhAw1Cq32+3PAIuRUB31BpDRASAlnMcGa6Y3TfMREPBHTILAJLrPBgEELU6llM0Ju+MpTX8zwrJ2KWtzqJO5pUFgY+FLKOiQXS7XIYIlOrJ0SVYQUjsTw6VDOpVVXFvo6htACAMe2iVgXEwdLJBzXB8Oh4fdGvJayUxI1YdQN8I9ugGgBgjEh/dzI1UrsdsMQtj5MAmlOdSj1GOtBhyr7NGw1AgCEc/DNr63FPxQF7pZEz6b82kOBNWNeFwul/t1ih0EkBkE0YB1p78CUYPiShDCZ0vAEuTUnBS3vgqkBrqxIXw211hUpyMJ7eG7BXEtHb0CIGxhc7LzG+hIdseNCHFOgiAuLrUbckDAgZi6ZAcBkG3MISsstFYShLV0xDpAiFtUAfZUmFX0SGNrj10CBHSSnvGIKQQAcMh6WLSCoACzO9c2E0sZrtqED5yJHg5rqgN6Ie4tkQ3WVtbyuyTn8BXWkU+c7t85t8QAO79JdfkBj41968g+G9MAAAAASUVORK5CYII="
+					},
+					"bin": {
+						"fill": "LightSteelBlue",
+						"outline": "GoldenRod",
+						"width": 100,
+						"height": 100
+					},
+					"left": 100,
+					"top": 100,
+					"value": ""
+				}
+			],
+			"objects_clonable": true,
+			"sort_available_answers": [
+				{
+					"index": "A",
+					"object": {
+						"url": "assets/images/FPO_fish_blue.png",
+						"scale": 1
+					},
+					"value": "",
+					"left": 825,
+					"top": 320,
+					"type": "images"
+				},
+				{
+					"index": "B",
+					"object": {
+						"url": "assets/images/FPO_fish_red.png",
+						"scale": 2
+					},
+					"value": "",
+					"left": 825,
+					"top": 420,
+					"type": "images"
+				}
+			],
+			"hints_total": 3,
+			"hints_used": 0,
+			"hints": []
+		}
+    }
+}

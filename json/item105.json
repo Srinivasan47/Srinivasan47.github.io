@@ -1,0 +1,88 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "mantis",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "105",
+				"studentAssignmentId": "105",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": " Goal Id",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "42",
+            "code": "embed-in-text",
+            "custom_text": "",
+            "passage_asset_text": "",
+            "instructional_prompt": "<p>Use the appropriate word to finish the text</p>",
+            "mechanical_prompt": "Select or fill in the answers",
+            "ignore_case": false,
+            "restrict_length": true,
+            "embed_in_text_available_answers": {
+                "answer": [
+                    {
+                        "index": 0,
+                        "type": "select",
+                        "options": [
+                            "cat",
+                            "dog",
+                            "baby",
+                            "fish"
+                        ],
+                        "position": 307
+                    },
+                    {
+                        "index": 1,
+                        "type": "input",
+                        "options": [],
+                        "maxlength": 8,
+                        "position": 224
+                    },
+                    {
+                        "index": 2,
+                        "type": "select",
+                        "options": [
+                            "(joking)",
+                            "(seriously worried)",
+                            "(sad)"
+                        ],
+                        "position": 434
+                    }
+                ]
+            },
+            "hints_total": 3,
+            "hints_used": 0,
+            "assets_used": [{
+                "id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(p1).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+                "text": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><title>Styles for Passage</title></head><body><h2 class=\"body1-psg-hd2\">from Xxxxxx</h2><h1 class=\"body1-psg-hd1\">Main Head</h1><h2 class=\"body1-psg-hd3\">by Xxxx Xxxxx</h2><h2 class=\"body1-psg-hd4\">Subhead</h2><div class=\"floated-div\">1</div><p class=\"body1-psg-ind\"><span class=\"italic\">This paragraph is indented but it is not numbered. This is the intro to the passage and that's why it's in ital. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</span></p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><div class=\"floated-div\">5</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">10</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Aliquam tincidunt mauris eu risus.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind-indfl\">Vestibulum auctor dapibus neque.</p><div class=\"floated-div\">15</div><p class=\"body1-psg-ind-indfl\">This paragraph is indented but it is not numbered. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</p><p class=\"body1-psg-ind2-indfl\">This paragraph has an extra level of indent and first-line indent. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eu libero sit amet quam egestas semper.</p></body></html>",
+                "asset_type": "passage",
+                "start": 0,
+                "end": 600
+            }]
+        }
+    }
+}

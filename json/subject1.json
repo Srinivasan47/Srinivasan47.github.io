@@ -1,0 +1,15 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "subject": "Math",
+        "goals": [
+          
+        ]
+    }
+}

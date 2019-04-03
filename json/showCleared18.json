@@ -1,0 +1,219 @@
+{
+	"info": {
+        "status": "WG200",
+		"title": "",
+        "message": "Ok",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "classId": "18",
+		"classViewId": "18",
+		"classViewRegId": "18",
+		"theme": "sapphire",
+        "cleared": "on",
+        "view": "assignments",
+        "assignments": [
+			{
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "108",
+					"studentAssignmentId": "108",
+                    "assignmentName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+                    "packName": "PackName_1",
+                    "goalId": "001",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/28/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "109",
+					"studentAssignmentId": "109",
+                    "assignmentName": "Cras malesuada commodo porttitor. Donec aliquet",
+                    "packName": "PackName_2",
+                    "goalId": "002",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/30/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "on"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "110",
+					"studentAssignmentId": "110",
+                    "assignmentName": "Proin consequat at mi sed elementum. Vivamus",
+                    "packName": "PackName_3",
+                    "goalId": "003",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/24/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "111",
+					"studentAssignmentId": "111",
+                    "assignmentName": "Aliquam quam erat, vulputate vel ",
+                    "packName": "PackName_4",
+                    "goalId": "004",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/27/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "112",
+					"studentAssignmentId": "112",
+                    "assignmentName": "Suspendisse mattis, mi venenatis ornare placerat",
+                    "packName": "packName_5",
+                    "goalId": "005",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/24/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "113",
+					"studentAssignmentId": "113",
+                    "assignmentName": "Maecenas lectus nulla, dapibus eu est eget",
+                    "packName": "PackName_13",
+                    "goalId": "013",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/25/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "114",
+					"studentAssignmentId": "114",
+                    "assignmentName": "Nulla malesuada tincidunt iaculis. Sed et",
+                    "packName": "PackName_7",
+                    "goalId": "007",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/30/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "on"
+                }
+            },
+            {
+                "type": "practicepack",
+                "info": {
+                    "assignmentId": "106",
+					"studentAssignmentId": "106",
+                    "assignmentName": "Fusce nec sodales nisl. Aenean",
+                    "packName": "PackName_6",
+                    "goalId": "006 ",
+                    "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                    "knewtonRegistrationId": " "
+                },
+                "outcome": {
+                    "notes": {
+                        "showNotes": "off",
+                        "newNotes": "1"
+                    },
+                    "totalSkills": "6",
+                    "demonstratedSkills": "4",
+                    "dueDate": "06/26/2013",
+                    "completed": "true",
+                    "dueXdays": "1",
+                    "locked": "off"
+                }
+            }
+        ]
+    }
+}

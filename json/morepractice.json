@@ -1,0 +1,44 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+	    "reviewDescription": "Explain events, procedures, ideas, or concepts in a scientific text, including what happened and why, citing text evidence",
+	    "morePractice": [
+		    {
+		        "gameId": "",
+		        "gameTitle": "Gamejbk jguik Crea tor1vjhbikbhjv jjhjbknbiunui",
+		        "gameThumbNail": "practice1"
+		    },
+		    {
+		        "gameId": "",
+		        "gameTitle": "Game Creator2",
+		        "gameThumbNail": "practice2"
+		    },
+		    {
+		        "gameId": "",
+		        "gameTitle": "Game Creator3",
+		        "gameThumbNail": "practice3"
+		    },
+		    {
+		        "gameId": "",
+		        "gameTitle": "Game Creator4",
+		        "gameThumbNail": "practice2"
+		    },
+		    {
+		        "gameId": "",
+		        "gameTitle": "Game Creator5",
+		        "gameThumbNail": "practice3"
+		    },
+		    {
+		        "gameId": "",
+		        "gameTitle": "Game Creator6",
+		        "gameThumbNail": "practice2"
+		    }
+		]
+	}
+}

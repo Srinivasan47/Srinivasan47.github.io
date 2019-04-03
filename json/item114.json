@@ -1,0 +1,113 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "114",
+				"studentAssignmentId": "114",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "014",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "segment",
+            "instructional_prompt": "Draw a line of symmetry through the figure",
+            "mechanical_prompt": "Click on the graph to place points and draw segment",
+            "answer_type": "line",
+            "graph_data": {
+                "title": "Grid title",
+                "show_grid": true,
+                "show_axes": false,
+                "axes_labels": "none",
+                "show_decimals_as_fractions": false,
+                "grid_origin": {
+                    "x": 200,
+                    "y": 118
+                },
+                "xAxis": {
+                    "title": "X Axis",
+                    "from": 0,
+                    "to": 15,
+                    "scale": 1
+                },
+                "yAxis": {
+                    "title": "Y Axis",
+                    "from": 0,
+                    "to": 15,
+                    "scale": 1
+                },
+                "available_art": [
+                    {
+                        "type": "polygon",
+                        "points": [
+                            {
+                                "x": 4,
+                                "y": 11
+                            },
+                            {
+                                "x": 3,
+                                "y": 8
+                            },
+                            {
+                                "x": 4,
+                                "y": 5
+                            },
+                            {
+                                "x": 6,
+                                "y": 6
+                            },
+                            {
+                                "x": 10,
+                                "y": 5
+                            },
+                            {
+                                "x": 9,
+                                "y": 9
+                            },
+                            {
+                                "x": 10,
+                                "y": 11
+                            },
+                            {
+                                "x": 7,
+                                "y": 12
+                            },
+                            {
+                                "x": 4,
+                                "y": 11
+                            }
+                        ]
+                    }
+                ]
+            },
+            "hints_total": 3,
+            "hints_used": 0,
+            "hints": []
+        }
+    }
+}

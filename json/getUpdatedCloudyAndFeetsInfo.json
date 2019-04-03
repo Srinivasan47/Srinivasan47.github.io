@@ -1,0 +1,28 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": ""
+    },
+    "data": {
+		"feetClouds": [
+			{"studentFeetCloudId":"GUID1", "value":110},
+			{"studentFeetCloudId":"GUID2", "value":20}
+		],
+        "messageClouds": [
+            {
+                "type": "urgency",
+                "message": "<span><strong>Conations!</strong> <br/> Your hard work will help you lift up in the world! You just traveled 12 feet.</span>",
+                "messageId": "1",
+                "messageGroup": "class"
+            },
+            {
+                "type": "urgency",
+                "message": "Yikes! You're latte on 12 assignments! Better get cracking.",
+                "messageId": "2",
+                "messageGroup": "system"
+            }
+        ]
+
+    }
+}

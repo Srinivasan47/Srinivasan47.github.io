@@ -1,0 +1,109 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "111",
+				"studentAssignmentId": "111",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "011",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "sort",
+            "instructional_prompt": "Drop 47 cents into the fish bowl.",
+            "mechanical_prompt": "You can drop the same coin multiple times.",
+            "validation_type": "value",
+            "answer_type": "value",
+            "bin_label_type": "text",
+            "bin_type": "images",
+            "bins": [
+                {
+                    "index": "1",
+                    "label": {
+                        "text": "Fish bowl"
+                    },
+                    "bin": {
+                        "url": "assets/images/FPO_fish_bowl_no_fish.jpg",
+                        "scale": 0.25
+                    },
+                    "left": 200,
+                    "top": 200,
+                    "value": "47"
+                }
+            ],
+            "objects_clonable": true,
+            "assets_used": [],
+            "sort_available_answers": [
+                {
+                    "index": "A",
+                    "object": {
+                        "text": "Penny"
+                    },
+                    "value": "1",
+                    "left": 825,
+                    "top": 320,
+                    "type": "text"
+                },
+                {
+                    "index": "B",
+                    "object": {
+                        "text": "Nickel"
+                    },
+                    "value": "5",
+                    "left": 825,
+                    "top": 360,
+                    "type": "text"
+                },
+                {
+                    "index": "C",
+                    "object": {
+                        "text": "Dime"
+                    },
+                    "value": "10",
+                    "left": 825,
+                    "top": 400,
+                    "type": "text"
+                },
+                {
+                    "index": "D",
+                    "object": {
+                        "text": "Quarter"
+                    },
+                    "value": "25",
+                    "left": 825,
+                    "top": 440,
+                    "type": "text"
+                }
+            ],
+            "hints_total": 3,
+            "hints_used": 0,
+            "hints": []
+        }
+    }
+}

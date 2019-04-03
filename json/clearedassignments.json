@@ -1,0 +1,94 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "studentId": "1",
+        "classId": "15",
+		"classViewId": "15",
+		"classViewRegId": "15",
+        "assignmentId": "106",
+		"studentAssignmentId": "106",
+        "assignmentName":"Solve Word Problems involving addition and substraction of fractions referring to the same whole and having like denomenators",
+        "knewtonGoalId": "xxxx-xx",
+        "knewtonLearningInstanceId": "lll-lllll",
+        "knewtonRegistrationId": "dddd-ddd",
+        "grading":"auto",
+        "skills": [
+            {
+                "skillId": "1",
+                "name": "Make sense of Problems and persevere in solving them ",
+                "proficiency": "battery-4"                
+            },
+            {
+                "skillId": "1",
+                "name": "Author Point of View",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Explain events,procedures ideas, or concepts in a scientific text,including what happened and why,citing text evidence",
+                "proficiency": "battery-4"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Explain events,procedures ideas, or concepts in a scientific text,including what happened and why,citing text evidence",
+                "proficiency": "battery-4"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            },
+            {
+                "skillId": "1",
+                "name": "Describe relationship between scientific ideas",
+                "proficiency": "battery-full"
+            }
+        ]
+    }
+}

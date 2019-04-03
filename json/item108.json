@@ -1,0 +1,87 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "108",
+				"studentAssignmentId": "108",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "008",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+		"item": {
+			"itemId": "41",
+			"code": "highlight",
+			"custom_text": "Most cheetahs live in the wilds of Africa. There are also some in Iran and northwestern Afghanistan. The cheetah's head is smaller than the leopard's, and its body is longer. This cat is built for speed. Its legs are much longer than the leopard's, allowing it to run at speeds of up to 70 miles per hour! This incredible ability helps the cheetahs catch their dinner, which is usually an unfortunate antelope. A cheetah's spots are simply black spots, not rosettes or circles.",
+			"instructional_prompt": "Select the phrase or phrases that are used as persuasion in that they express an attitude of sympathy for animals that are prey to big cats.",
+			"mechanical_prompt": "Click or tap a phrase to select or deselect it.",
+			"highlight_method": "sentence",
+			"assets_used": [],
+			"highlight_available_answers": {
+				"answer": [
+					{
+						"index": 0,
+						"label": "Most cheetahs live (...)",
+						"text": "Most cheetahs live in the wilds of Africa."
+					},
+					{
+						"index": 1,
+						"label": " There are (...)",
+						"text": " There are also some in Iran and northwestern Afghanistan."
+					},
+					{
+						"index": 2,
+						"label": " The cheetah's (...)",
+						"text": " The cheetah's head is smaller than the leopard's, and its body is longer."
+					},
+					{
+						"index": 3,
+						"label": " This cat (...)",
+						"text": " This cat is built for speed."
+					},
+					{
+						"index": 4,
+						"label": " Its legs (...)",
+						"text": " Its legs are much longer than the leopard's, allowing it to run at speeds of up to 70 miles per hour! This incredible ability helps the cheetahs catch their dinner, which is usually an unfortunate antelope."
+					},
+					{
+						"index": 5,
+						"label": " A cheetah's (...)",
+						"text": " A cheetah's spots are simply black spots, not rosettes or circles."
+					}
+				]
+			},
+			"hints_total": 2,
+			"passage_asset": {
+				"id": "uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/images/img_(19).jpg^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/OEBPS/^/uploads/NUGDVZ384362206/cross/n9c15da6666446049/ne7d6eeccc717bb23/ne7d6eeccc717bb23_master.xml",
+				"text": "<h1>Jing's Fantastic Dream</h1><h2>by Kurt Vonnegut</h2><p>Long ago, in a village near the Huang He River, a young woman named Jing lived a hard and lonely life.</p><p>She had been orphaned as a baby. Both of her parents were lost in a flood after the waters of the Huang He surged through their hut. Jing, however, survived. The swollen river carried her off, asleep in her basket, and left her on the edge of a rice field. As it happened, an old peasant woman soon passed through the field on her way to the village, and she heard the baby crying.</p><p>Ã¢â‚¬Å“This child must be blessed,Ã¢â‚¬ï¿½ the old woman whispered to herself when she saw the tiny infant in such an unlikely place. Ã¢â‚¬Å“South is the luckiest direction, and the babyÃ¢â‚¬â„¢s basket has landed on the southernmost tip of this rice field.Ã¢â‚¬ï¿½<br />Immediately, the old woman carried the basket to the comfortable house of Shan, who produced silk thread in her barn. Ã¢â‚¬Å“Take care of this child,Ã¢â‚¬ï¿½ she told Shan, Ã¢â‚¬Å“and she will bring good fortune to your home someday.Ã¢â‚¬ï¿½</p><p>Shan had six children of her own, and no husband, but she smiled and agreed to take Jing in. In time, Jing grew into a bright, young woman, but she was humble and shy. Shan fed Jing and gave her a soft mat to sleep on. In return, Jing cared for ShanÃ¢â‚¬â„¢s children. Another one of her jobs was to wash waste from the cocoons of silkworms after workers had peeled the silk threads from them. She rinsed the cocoons in a vat and poured the contents of the vat into a tub. A mat prevented the cocoons from going down the drain with the water, and Shan would use them later for stuffing quilts.</p><p>One day, Jing removed the cocoons from the tub and lifted the leftover lint that had collected on top of the mat. She discovered that the wet fuzz on the mat had dried into a thick, crisp sheet. Jing put the sheet of lint to the side, thinking that she would collect more and use the lint sheets to make little hats for the dolls of ShanÃ¢â‚¬â„¢s children.</p><p>Sometime later, messengers arrived to announce that the emperorÃ¢â‚¬â„¢s wife had given birth to a boyÃ¢â‚¬â€�his first son and heir. In one week, there would be a parade, during which his subjects could present gifts to commemorate the great event.</p><p>Members of ShanÃ¢â‚¬â„¢s household jabbered excitedly about their planned gifts. They all understood that the gift-giving would provide a chance to impress the emperor. Even ShanÃ¢â‚¬â„¢s children were getting presents ready for the emperorÃ¢â‚¬â„¢s new heir. To poor JingÃ¢â‚¬â„¢s shame, she had nothing for the baby: no rice cakes, no cookies, no tea, no jade, and no silk.</p><p>That night, while Jing slept, the old woman appeared in her dream. She smiled, waving a blue sheet, and whispered, Ã¢â‚¬Å“Do not be miserable or uncertain, Jing. All will turn out well. Trust your imagination to solve your problem.Ã¢â‚¬ï¿½</p>",
+				"start": 0,
+				"end": 300
+			}
+		}
+    }
+}

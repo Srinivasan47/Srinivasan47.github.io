@@ -1,0 +1,9 @@
+{
+    "info": {
+        "status": "WG201",
+		"title": "",
+        "message": "Created",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    }
+}

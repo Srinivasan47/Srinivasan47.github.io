@@ -1,0 +1,50 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+		"subject": "",
+		"skills": [
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them",
+	    		"proficiency":"battery-empty"
+	    	},
+	    	{
+	    		"name":"Author's point of view",
+	    		"proficiency":"battery-2"
+	    	},
+	    	{
+	    		"name":"Explain events, procedures, ideas, or concepts in a scientifict text, including what happened and why, citing text evidence.",
+	    		"proficiency":"battery-3"
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas.",
+	    		"proficiency":"battery-4"
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"battery-full"
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"battery-empty"
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"battery-3"
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas..",
+	    		"proficiency":"battery-single-plug"
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas..",
+	    		"proficiency":"battery-double-plug"
+	    	}
+	    ]
+	}
+}

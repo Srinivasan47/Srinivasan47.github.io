@@ -1,0 +1,226 @@
+{	
+	"info": {
+			"status": "WG200",
+			"title": "",
+			"message": "Ok",
+			"sessionTimeout":"600",
+			"countdownTime": "60"
+		},
+	"data": {
+		"label.header.viewMessages": [
+			"link",
+			"click",
+			"Header- View Messages"
+		],
+		"label.header.assignments": [
+			"link",
+			"click",
+			"Header- Assignments"
+		],
+		"label.header.games": [
+			"link",
+			"click",
+			"Header- Games"
+		],
+		"label.header.avatar": [
+			"link",
+			"click",
+			"Header- Avatar"
+		],
+		"label.header.help": [
+			"link",
+			"click",
+			"Header- Help"
+		],
+		"label.header.signOut": [
+			"link",
+			"click",
+			"Header- Sign Out"
+		],
+		"label.assignments.cloudy": [
+			"link",
+			"click",
+			"Assignments- Cloudy"
+		],
+		"label.assignments.cloudyClose": [
+			"link",
+			"click",
+			"Assignments- Cloudy Close"
+		],
+		"label.assignments.cloudyNext": [
+			"link",
+			"click",
+			"Assignments- Cloudy Next"
+		],
+		"label.assignments.feetCloud": [
+			"link",
+			"click",
+			"Assignments- Feet Cloud"
+		],
+		"label.assignments.flockCloud": [
+			"link",
+			"click",
+			"Assignments- Flock Cloud"
+		],
+		"label.footer.goalsReached": [
+			"link",
+			"click",
+			"Footer- Goals Reached"
+		],
+		"label.footer.goalsReached.goal": [
+			"link",
+			"click",
+			"Footer- Goals Reached- Goal"
+		],
+		"label.footer.flocksReleased": [
+			"link",
+			"click",
+			"Footer- Flocks Released"
+		],
+		"label.assignments.showCleared": [
+			"button",
+			"click",
+			"Assignments- Show Cleared"
+		],
+		"label.assignments.hideCleared": [
+			"button",
+			"click",
+			"Assignments- Hide Cleared"
+		],
+		"label.assignments.skillPie": [
+			"image",
+			"click",
+			"Assignments- Skill Pie"
+		],
+		"label.assignments.notes": [
+			"image",
+			"click",
+			"Assignments- Notes"
+		],
+		"label.assignments.notes.next": [
+			"image",
+			"click",
+			"Assignments- Notes, Next"
+		],
+		"label.assignments.notes.close": [
+			"image",
+			"click",
+			"Assignments- Notes, Close"
+		],
+		"label.assignments.am11.retry": [
+			"image",
+			"click",
+			"Assignments- AM 11, Retry"
+		],
+		"label.assignments.viewGraded": [
+			"image",
+			"click",
+			"Assignments- AM 11, View Graded"
+		],
+		"label.assignments.pagination": [
+			"image",
+			"click",
+			"Assignments- Pagination"
+		],
+		"label.header.class": [
+			"link",
+			"click",
+			"Header- Class"
+		],
+		"label.am.checkAnswer": [
+			"button",
+			"click",
+			"AM-Check Answer"
+		],
+		"label.am.hints": [
+			"button",
+			"click",
+			"AM-Hints"
+		],
+		"label.am.nextQuestion": [
+			"button",
+			"click",
+			"AM-Next Question"
+		],
+		"label.am.back": [
+			"button",
+			"click",
+			"AM-Back"
+		],
+		"label.am.tools": [
+			"button",
+			"click",
+			"AM-Tools"
+		],
+		"label.am.viewPassage": [
+			"button",
+			"click",
+			"AM-View Passage"
+		],
+		"label.assignments.completedAssignments": [
+			"button",
+			"click",
+			"Assignments- Completed Assignment"
+		],
+		"label.completedAssignments.reviewSkills": [
+			"button",
+			"click",
+			"Completed Assignment- Review Skills"
+		],
+		"label.completedAssignments.allAssignments": [
+			"button",
+			"click",
+			"Completed Assignment- All Assignments"
+		],
+		"label.games.continue": [
+			"button",
+			"click",
+			"Games- Continue"
+		],
+		"label.games.play": [
+			"button",
+			"click",
+			"Games- Play"
+		],
+		"label.am11.sendToTeacher": [
+			"button",
+			"click",
+			"AM- AM 11, Send To Teacher"
+		],
+		"label.am11.viewPassage": [
+			"button",
+			"click",
+			"AM- AM 11, View Passage"
+		],
+		"label.am11.print": [
+			"button",
+			"click",
+			"AM- AM 11, Print"
+		],
+		"label.am11.save": [
+			"button",
+			"click",
+			"AM- AM 11, Save"
+		],
+		"label.footer.contactUs": [
+			"link",
+			"click",
+			"Footer- Contact Us"
+		],
+		"label.footer.privacyPolicy": [
+			"link",
+			"click",
+			"Footer- Privacy Policy"
+		],
+		"label.footer.termsAndConditions": [
+			"link",
+			"click",
+			"Footer- Terms and Conditions"
+		],
+		"label.footer.disclaimer": [
+			"link",
+			"click",
+			"Footer- Disclaimer"
+		]
+	}
+}

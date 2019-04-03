@@ -1,0 +1,26 @@
+{
+    "info": {
+        "status": "WG200",
+        "title": "Ok",
+		"message": "Ok",		
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {    	
+    	"url.header.getCoach" : "http://triumphlearning.com/",
+		"url.header.faq.redirectVia" : "help?RedirectUrl=https://supportdesk.gogetwaggle.com/",
+		"url.header.faq" : "https://supportdesk.gogetwaggle.com/",
+		"url.footer.aboutGetWaggle" : "http://triumphlearning.com/",
+		"url.login.application": "http://localhost/waggle-ui-b1/dist/waggle-ui-login/",
+		"url.footer.contactus" : "https://supportdesk.gogetwaggle.com/",
+		"url.footer.privacy" : "http://www.triumphlearning.com/waggle-privacy.html",
+		"url.footer.termsAndConditions" : "http://www.triumphlearning.com/waggle-terms-of-service.html",
+		"url.footer.triumphLearning" : "http://www.triumphlearning.com",
+		"url.footer.disclaimer" : "http://triumphlearning.com/",
+		"url.gamespopup" : "http://triumphlearning.com/",
+		"url.reviewpopup.image": "http://triumphlearning.com/",
+		"url.reviewpopup.imageName": "http://triumphlearning.com/",
+		"url.AMEnvironment": "/projects/waggle-ui-final-student",		
+		"showFeedbackLink" : true
+    }
+}

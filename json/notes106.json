@@ -1,0 +1,39 @@
+{
+	"info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data":[
+		{ 
+		  "assignedDate" : "JULY 10, 2013   4:30 PM",
+		  "message" : "Cras elementum velit placerat elit bibendum, eget sollicitudin tellus imperdiet. Morbi congue, dolor sed tempor aliquet, tellus ligula imperdiet massa, id tempus arcu lectus eget orci.",
+		  "viewed" : "true",
+		  "index" : "0",
+		  "noteId" :"1"
+		},
+		{ 
+		  "assignedDate" : "AUG 21, 2013   9:30 AM",
+		  "message" : "Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. Nullam egestas vestibulum libero in sodales. Etiam ac sollicitudin nulla, et hendrerit felis. ",
+		  "viewed" : "true",
+		  "index" : "0",
+		  "noteId" :"2"
+		},
+		{ 
+		  "assignedDate" : "SEPT 30, 2013   11:30 AM",
+		  "message" : "Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.",
+		  "viewed" : "true",
+		  "index" : "0",
+		  "noteId" :"2"
+		},
+		{ 
+		  "assignedDate" : "SEPT 30, 2013   11:30 AM",
+		  "message" : "Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.Vivamus at congue felis. Nullam mollis tellus in placerat eleifend. Fusce porta felis ac elementum cursus. Ut blandit risus et hendrerit tristique.",
+		  "viewed" : "false",
+		  "index" : "0",
+		  "noteId" :"2"
+		}
+	]
+}

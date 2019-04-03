@@ -1,0 +1,33 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout": "600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "levels": [
+            {
+                "level": 2,
+                "levelTitle": "Add Numbers",
+                "status": "locked"
+            },
+            {
+                "level": 4,
+                "levelTitle": "Subtract Numbers",
+                "status": "open"
+            },
+			{
+                "level": 1,
+                "levelTitle": "Multiply Numbers",
+                "status": "completed"
+            },
+            {
+                "level": 3,
+                "levelTitle": "Divide Numbers",
+                "status": "inprogress"
+            }
+        ]
+    }
+}

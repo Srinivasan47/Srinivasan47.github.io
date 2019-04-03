@@ -1,0 +1,104 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+		"subject": "ELA",
+		"goals": [
+	    	{
+	    		"name":"Makes sense of problems and persevere in solving them",
+	    		"proficiency":"battery-1",
+	    		"goalId":"51",
+	    		"assignmentId": "101",
+				"studentAssignmentId": "101",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"ELA - Author's point of view",
+	    		"proficiency":"",
+				"goalId":"52",
+	    		"assignmentId": "102",
+				"studentAssignmentId": "102",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Explain events, procedures, ideas, or concepts in a scientifict text, including what happened and why, citing text evidence.",
+	    		"proficiency":"battery-3",
+	    		"goalId":"53",
+	    		"assignmentId": "103",
+				"studentAssignmentId": "103",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas.",
+	    		"proficiency":"",
+				"goalId":"54",
+	    		"assignmentId": "104",
+				"studentAssignmentId": "104",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"battery-full",
+	    		"goalId":"55",
+	    		"assignmentId": "105",
+				"studentAssignmentId": "105",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"battery-full",
+	    		"goalId":"56",
+	    		"assignmentId": "106",
+				"studentAssignmentId": "106",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Make sense of problems and persevere in solving them.",
+	    		"proficiency":"",
+				"goalId":"57",
+	    		"assignmentId": "107",
+				"studentAssignmentId": "107",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas..",
+	    		"proficiency":"battery-single-plug",
+	    		"goalId":"58",
+	    		"assignmentId": "108",
+				"studentAssignmentId": "108",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	},
+	    	{
+	    		"name":"Describe relationships between scientific ideas 2..",
+	    		"proficiency":"battery-double-plug",
+	    		"goalId":"59",
+	    		"assignmentId": "109",
+				"studentAssignmentId": "109",
+	    		"knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": " "
+	    	}
+		]
+	}
+}

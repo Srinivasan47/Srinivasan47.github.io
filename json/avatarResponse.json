@@ -1,0 +1,9 @@
+{
+    "info": {
+        "status": "WG201",
+		"title": "",
+        "message": "avatarChanged",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    }
+}

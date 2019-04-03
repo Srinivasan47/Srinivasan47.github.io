@@ -1,0 +1,9 @@
+{
+	"info": {
+		"status": "WG200",
+		"message": "Thank you. <br> This question has <br> been reported. <br> Try something else?",
+		"title": "",
+		"sessionTimeout": "600",
+		"countdownTime": "60"
+	}
+}

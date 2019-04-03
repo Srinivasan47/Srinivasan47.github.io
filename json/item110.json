@@ -1,0 +1,118 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "110",
+				"studentAssignmentId": "110",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "010",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "sort",
+            "instructional_prompt": "Drop the infinite results under the blue fish and the finit under the red fish",
+            "mechanical_prompt": "Type mechanical prompt.",
+            "validation_type": "region",
+            "answer_type": "region",
+            "bin_label_type": "images",
+            "bin_type": "rectangles",
+            "bins": [
+                {
+                    "index": "1",
+                    "label": {
+                        "url": "assets/images/FPO_fish_blue.png"
+                    },
+                    "bin": {
+                        "fill": "LightSteelBlue",
+                        "outline": "GoldenRod",
+                        "width": 100,
+                        "height": 200
+                    },
+                    "left": 100,
+                    "top": 200,
+                    "value": ""
+                },
+                {
+                    "index": "2",
+                    "label": {
+                        "url": "assets/images/FPO_fish_red.png"
+                    },
+                    "bin": {
+                        "fill": "rgb(255, 192, 203)",
+                        "outline": "rgb(221, 160, 221)",
+                        "width": 100,
+                        "height": 200
+                    },
+                    "left": 250,
+                    "top": 200,
+                    "value": ""
+                }
+            ],
+            "objects_clonable": false,
+            "sort_available_answers": [
+                {
+                    "index": "A",
+                    "object": {
+                        "mathml": "<math><mrow><mrow><munder><mtext>lim</mtext><mrow><mi>n</mi><mo>&#x2192;</mo><mo>4</mo></mrow></munder><mfenced><mrow><mfrac><mtext>1</mtext><mtext selected=\"true\">n-4</mtext></mfrac></mrow></mfenced></mrow></mrow></math>",
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAnCAYAAAC7bZ4BAAADLElEQVR42u2aMa7yMAyAewRWNjZWFnYGDoA4AZwAToA4AAMzEysbGyNMrDBwACQOAJwgTx+S+f1HTZoW2kZPz1IFphQnX23HcUlMRPJ8Pk232y3dDjawpSWJCcRmszH9fr90O9jAVrQgJpPJ66jDTlQg2u22Wa1Wwd9/PB5mOp2a+Xyeyw42sBUliMvlYprNpjkej8EQDoeD6XQ6uUFgA1vYjA4Ed4nB2UksS3q9Xm4Q2MCW9r4kpvzA4PJKERAItnSeiAYEmXw4HFYGAlt6hYoGBHdoPB5XBgJb2gOjACHJa7FYVAYCWzo5RwGC4qYuEFJYRQFCBrXb7SoDgS0NPwoQsmKE1hC6jmi1Wi8YvC8SjrJyOEHww1RtWl8ul6WAIIPnBfGtvCQrVeIrXZPk3+n1em0Gg0GpIG63W2UgsJUJQjxAgyh7j1GkmPrGki17jlwgzufzf/r1en1/zvfxJB2/cj5kQHWBELtBIJjQaDR660wUnQ0PIUMYSdJC5xw6r78KBLLdbr06ANDFK0QvAgLwLInfPhjTxyA+1f9A/LbQ+ANh5QA7R0hOiBEEY/CV35kgiFEmzo/IMujSAQIMlx5S+tJe/zaI+/1uGo1GJgh5fBDFXkMqS91D/FQA4NuQSY80s7KsA0TaXgMPw6so2phUyH6Ha06nkxdE0F6japnNZqkg9O5SQo284ws3CdusLbqAwHblIFwlt90k8fUbstr3+pwPhN0MqgwErs3A8rbq7MloXRdLskJIKO33+xc0yvw0D6qlVccqQmy7QEjiEjcNBcEE5cDb2PNwXg5WDQktVzhKgk50gmGwvIZulmSSXOMTSXAuELKUpbXzfSA+aeNJghZJdMHERUzMNWCo67sgB9dxN6S4sjO4bN99IOznDDon6BuDrjtnRUHYz1HeIDAmg3Z5hAsEd5xr0pIhn0sc46b2xsd2VTuvaNfXehr0tLzkStB2KCaatCQggIQ2VUJCQ9+hrK7yN4sql0hO0l3zxJ5MmU1alzcg8mC2SEs/rwh0/cA5qv9HELdFHvLkFWzYiTkqEGkDLKukt4FHBYLYrerPZHYuigpEnfIDqhDlTixuo3EAAAAASUVORK5CYII="
+                    },
+                    "value": "",
+                    "left": 825,
+                    "top": 320,
+                    "type": "equations"
+                },
+                {
+                    "index": "B",
+                    "object": {
+                        "mathml": "<math><mrow><munder><mtext>lim</mtext><mrow><mi>n</mi><mo>&#x2192;</mo><mo>1</mo></mrow></munder><mfenced><mrow><mfrac><mtext>1</mtext><mtext selected=\"true\">n</mtext></mfrac></mrow></mfenced></mrow></math>",
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAnCAYAAACv+ADgAAAC0UlEQVR42uWZvY3CMBSAMwItHR0tDT0FAyAmgAlgAsQAFNRUtFTQUUJFTcEASAwATODTF+mhdwY7iZO7WHeWIvQIDv7yfv2cmEjG7XYz3W638LzJZGKez+e375JYoFarlen3+4XnMWez2cQJNRwOzWw2C9IUV3RQmE+z2TT7/f7t3vV6Nb1ezxyPR6eG2+12fFCYD1D4lQ0ETJIkTqjT6ZTOvVwucUFhPr4g4YMSLaOxqKAAwqdCoBhAab+qHQqTY1GLxSIYiheiI2cSiz/ZYbkI1Hg8Tp8RDRRhnAXh8KFQaFk/o3YoTEe/5TJQou3aocgxZaHIb9ova4diMa7IR57a7XYp1HQ6Nefz2ZurJAJ+hOKt8BAtL5fLyoFkMb5wHvKcN6jH45EC8XZkrNdrMxgMooWStOCEEs1oqJ8O574cVcSMpQbMDWXbM/Yu3/N7NCyaRpb7viFRqyooCTiZUCxuNBq9ZBaN3Ol0UrPEVFutVlpJI3MPmc9ooRgSgVwyMMiiLZFDoPjv+XyeefEfpaDKyv8e6tfM709C2T4iPiU+FD0U0Q4I7FZCs0sGDjCX7KvXdM1mN05CoWT3XGvtV1VFQX8is6L4rWEvxi7X0LgUtWIJQbVfHVX6p6aL+DFJXJJ6o9Ew9/vdCSV9w9qhAHLtp/Q+Cs0hHw6HzBryx6FYjK/Cl52v3fP7tDl0QdWynacuzNtfCIGSPoc0NBOde9gI8pmnGNWacDlwHigJ67oZWRTK7nMk2jGJMCzStQhpA9sX86jWJRkXgZIOq52rxIekxhN5u92+PYOen46gLyi0wxtnf+TSlAsKDTPHtYfyQcmi7GMc/XzZo3F90pSOfN+g2B8xJB/k2eRVYX7ar8rkOn1iktgLq7rJgubFV7MW5mtoZvmkPk2M5tCNfBVS2DLHrkiigcInQmpA5tgvIxooTNA+EcwzOBzQB25RQVU5vgD48XCRa36PvQAAAABJRU5ErkJggg=="
+                    },
+                    "value": "",
+                    "left": 825,
+                    "top": 380,
+                    "type": "equations"
+                },
+                {
+                    "index": "C",
+                    "object": {
+                        "mathml": "<math><mrow><munder><mtext>lim</mtext><mrow><mi>n</mi><mo>&#x2192;</mo><mo>&#x221E;</mo></mrow></munder><mfenced selected=\"true\"><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow></math>",
+                        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAaCAYAAADygtH/AAACgElEQVR42u2ZMa7CMAxAewRWNjZWFnYGDoA4AZwAToA4AAMzEysbGysTMwMHQOICcIJ8vUiuTJS2KbT96de3VPW7Cq394jiOf2Iik9frZYbDYVQ2jcdj83g8Uj2JDdrhcDDT6TQqm7Bns9nEC22xWJjVahWVTbvd7i36C6Ht93uz3W7f9OPxWJuBGKdntUl5Pp9muVya9Xr99vx2u5lut2vvhdDu97sZjUb2EvG9tMp8hnGXy6VSENfrNWjc+Xw2g8HA6x92EXFBkcYLNLQ6BVhVQwNEGfsZ64NGXiN1fAzNnTkiUgzk0s/RmcUQOZ1OFhoR5zpOWpB3ky5CoqdKaPP5PN2gSkHDUMJXdKCgz2Yz6wj3TqdjlzD6ZDKxOg6HCLkMaK6QQ5Mksd/HHr6D3iQ0bVvpSANIno5DgNR6qNFZ0IAl8IlaIOpv+EDJxeQxVj/Li9JaoH2rfwINx3u9XuosE5G3GcnmxQUwgOtnTPSfh8bvASUikdOa5dk0NJYj+UtqQ3Qix7chRQvNzVGEus4v30DjCOVCA5ZAElAs1dACOxSa1Gm8m/FuJAfvnhhIPpEtPksHDH+zm/r00BIhtE4LLTdkhw/dvYvOn4CL7uxZx4mgKil1Imha+v1+alwsUurs+RvCEmh9l+M3DIytn+ZOZHTQ6JDG1rklZUTduW2DJLoeojTgrqvvkPqmqGailuPwro9B1EJlSocooVHLUF8BIasYlFaPe/E7wPhaQFKjSeHIWOn+5h26WwGN2ccRHMyKtCxo0haSvpoWIkxPjHtaaDU0mXUcAZ4PwCfLE6BEIWOkFyaw9P8eWgdNOy6RU5XwbiDJ0ndTQasj7V/C5Qf3EhZnND/vzQAAAABJRU5ErkJggg=="
+                    },
+                    "value": "",
+                    "left": 825,
+                    "top": 440,
+                    "type": "equations"
+                }
+            ],
+            "hints_total": 3,
+            "hints_used": 0,
+            "hints": []
+        }
+    }
+}

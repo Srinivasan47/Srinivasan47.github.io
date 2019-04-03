@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html ng-app="errorApp">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta charset="utf-8">
+<title>Triumph Learning - Get Waggle: Error Page</title>
+<link href="../vendor/foundation/normalize.css" type="text/css" rel="stylesheet"/>
+<link href="foundation.css" type="text/css" rel="stylesheet" />
+<link href="error.css" type="text/css" rel="stylesheet" />
+<script language="javascript">
+    var dName = document.domain;
+    if ((dName.indexOf(".com") > -1) && (dName.indexOf(".") > -1)) {
+	var dNameArr = dName.split(".");
+	if (dNameArr.length > 1) {
+	    dName = dNameArr[dNameArr.length - 2] + "." + dNameArr[dNameArr.length - 1];
+	}
+	try {
+	    document.domain = dName;
+	} catch (err) {
+	    console.log(err);
+	}
+    }
+
+    var copyRightLabel = "2014 Triumph Learning, LLC. All rights reserved";
+    var locale = "en-us";
+    var loginUrl = "http://localhost/waggle-ui-b1/dist/waggle-ui-login/";
+    var errorMessages = [ {
+    	title : "System Error",
+    	statusCode : "WG503",
+    	message: "If you are continually receiving this message, please contact Customer Support."
+    }, {
+   		title : "Page Not found",
+    	statusCode : "WG503",
+    	message: "If you are continually receiving this message, please contact Customer Support."
+    }, {
+    	title : "Unauthorized",
+    	statusCode : "WG503",
+    	message: "If you are continually receiving this message, please contact Customer Support."
+    }];
+    locale = {
+		"label.footer.contactUs" : "Contact Us",
+		"label.footer.privacy" : "Privacy Policy",
+		"label.footer.termsAndConditions" : "Terms and Conditions",
+		"label.footer.disclaimer" : "Disclaimer",
+		"label.footer.disclaimer.text1":"Neither Triumph Learning, Education Tools, LLC, nor Haights Cross Communications is affiliated with or endorsed in any way by the Consortium on Reading Excellence, Inc. (CORE)",
+		"label.footer.disclaimer.text2":"The National Governors Association Center for Best Practices and Council of Chief State School Officers are the sole owners and developers of the Common Core State Standards,",
+		"label.footer.termsAndConditions" : "Terms and Conditions",
+		"label.footer.triumphLearningMaintenance" : "www.triumphlearning.com",
+		"label.footer.triumphLearning" : "Triumph Learning",
+		"label.footer.copyright" : "",
+		"label.footer.maintenanceCopyright" : " 2014 Triumph Learning, LLC. All Rights Reserved.",
+		"label.footer.poweredByKnewton" : "Powered by Knewton",
+	};
+</script>
+</head>
+<body ng-controller="errorController">
+	<div class="down-site-main-container">
+		<div class="down-for-maintenance-bg">
+			<div class="dotted-bg">&nbsp;</div>
+			<div class="maintenance-content-holder" style="">
+				<div class="down-site-logo-holder">
+					<div class="down-site-logo"></div>
+				</div>
+				<div class="pig-holder-msg svg-landscape">
+					<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+						height="300px" width="695px">							  						
+						  	<defs>
+								<path d="M11,128 Q117,99 213,126 T396,127" id="textPath" />
+							</defs>
+							<text transform="translate(275,20)" text-anchor="middle"
+							font-size="31px" font-family="AkagiPro-Bold" fill="white">
+								<textPath xlink:href="#textPath" startOffset="50%">{{flagMessage | uppercase}}</textPath>
+							</text>							
+						</svg>
+				</div>
+				<div class="pig-holder-msg svg-portrait">
+					<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+						height="300px" width="515px">							  						
+						  	<defs>
+								<path d="M11,128 Q117,99 213,126 T396,127" id="textPath2" />
+							</defs>
+							<text transform="translate(158,-14)" text-anchor="middle"
+							font-size="27px" font-family="AkagiPro-Bold" fill="white">
+								<textPath xlink:href="#textPath2" startOffset="50%">{{flagMessage | uppercase}}</textPath>
+							</text>							
+						</svg>
+				</div>
+				<div class="down-for-maintenance-msg">
+					<span>{{message}}</a></span> <span class="code">Code: {{code}} </span>
+				</div>
+			</div>
+			<div class="dotted-bg-right">&nbsp;</div>
+		</div>
+	</div>
+	<footer>
+		<div ng-include="'footer.tpl.html'" class="footer-info-wrapper"></div>
+	</footer>
+
+	<script src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/error.js"></script>
+</body>
+</html>

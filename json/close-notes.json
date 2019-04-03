@@ -1,0 +1,18 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "notes": {
+            "studentId": 1,
+            "classId": 12,
+            "assignmentId": 106,
+            "showNotes": "on",
+            "newNotes": "1"
+        }
+    }
+}

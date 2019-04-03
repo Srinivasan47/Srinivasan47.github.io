@@ -1,0 +1,40 @@
+/* set default font and reset all elements and override any other styles */
+.passage, .passage * {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+  font-size: medium !important;
+  line-height: normal !important;
+  text-shadow: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	border: 0 !important;
+	vertical-align: baseline !important;
+}
+
+/* custom styles */
+.passage .body1-psg { margin: 12px 0 0 20px !important; }
+.passage .body1-psg-ind { margin: 12px 0 0 40px !important; }
+.passage .body1-psg-ind-indfl { margin: 12px 0 0 40px !important; text-indent: 24px !important; }
+.passage .body1-psg-hd1 { font-size: 24px !important; font-weight: bold !important; text-align: center !important; }
+.passage .body1-psg-hd1-a { font-size: 24px !important; font-weight: bold !important; margin-left: 40px !important; }
+.passage .body1-psg-hd2 { font-size: 18px !important; text-align: center !important; font-style: italic !important; margin-top: 12px !important; }
+.passage .body1-psg-hd3 { font-size: 18px !important; text-align: center !important; font-style: italic !important; padding-bottom: 12px !important; }
+.passage .body1-psg-hd3-a { font-size: 18px !important; font-style: italic !important; padding-bottom: 12px !important; margin-left: 40px !important; }
+.passage .body1-psg-hd4 { font-size: 20px !important; font-weight: bold !important; margin: 12px 0 0 40px !important; }
+.passage .body1-psg-hd5 { font-size: 18px !important; font-weight: bold !important; margin: 0 0 12px 40px !important; }
+.passage .body1-psg-hd6 { font-size: 18px !important; margin-left: 40px !important; font-weight: bold !important; }
+.passage .body1-psg-hd7 { font-size: 20px !important; text-align: center !important; font-weight: bold !important; margin-bottom: 12px !important; }
+.passage .characters-hd { font-size: 18px !important; margin-left: 40px !important; font-weight: bold !important; }
+.passage .character-list { margin-left: 40px !important; font-weight: bold !important; font-style: italic !important; }
+.passage .body1-psg-ind2 { margin: 12px 0 0 80px !important; }
+.passage .body1-psg-ind2-indfl {margin: 12px 0 0 80px !important; text-indent: 24px !important; }
+.passage .body1-psg-poem { margin: 15px 0 0 40px !important; }
+.passage .body1-psg-poem-sp { margin: 15px 0 0 40px !important; padding-bottom: 16px !important; }
+
+.passage li.body1-psg-numlist { margin: 6px 0 0 60px !important; }
+.passage .character-list { margin-left: 40px !important; font-weight: bold !important; font-style: italic !important; }
+
+.passage .italic {font-style: italic !important; }
+.passage .floated-div {float: left !important; margin: 12px 0 0 10px !important; }
+
+
+

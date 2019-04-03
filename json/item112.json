@@ -1,0 +1,89 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "112",
+				"studentAssignmentId": "112",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "012",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "segment",
+            "instructional_prompt": "Point the intersection between the the altitude and the bottom side of the triangle",
+            "mechanical_prompt": "Click on the graph to place points",
+            "answer_type": "point",
+            "graph_data": {
+                "title": "Grid title",
+                "show_grid": true,
+                "show_axes": true,
+                "axes_labels": "each-gridline",
+                "show_decimals_as_fractions": true,
+                "grid_origin": {
+                    "x": 250,
+                    "y": 168
+                },
+                "xAxis": {
+                    "title": "X Axis",
+                    "from": 0,
+                    "to": 10,
+                    "scale": 1
+                },
+                "yAxis": {
+                    "title": "Y Axis",
+                    "from": 0,
+                    "to": 10,
+                    "scale": 1
+                },
+                "available_art": [
+                    {
+                        "type": "polygon",
+                        "points": [
+                            {
+                                "x": 5,
+                                "y": 8
+                            },
+                            {
+                                "x": 2,
+                                "y": 2
+                            },
+                            {
+                                "x": 8,
+                                "y": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            "hints_total": 3,
+            "hints_used": 0,
+            "hints": []
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "info": {
+        "status": "WG200",
+		"title": "",
+        "message": " ",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "state": "correct",
+        "math": [
+            {
+                "id": 0,
+                "mathml": "<math><br>        <mrow selected='true'><br>                <msub><br>                        <mi>x</mi><br>                        <mtext>12</mtext><br>                </msub><br>                <mo>=</mo><br>                <mfrac linethickness='1'><br>                        <mrow><br>                                <mo>-</mo><br>                                <mi>b</mi><br>                                <mo>&#xB1;</mo><br>                                <msqrt linethickness='1'><br>                                        <msup><br>                                                <mi>b</mi><br>                                                <mn>2</mn><br>                                        </msup><br>                                        <mo>-</mo><br>                                        <mn>4</mn><br>                                        <mi>a</mi><br>                                        <mi>c</mi><br>                                </msqrt><br>                        </mrow><br>                        <mrow><br>                                <mn>2</mn><br>                                <mi>a</mi><br>                        </mrow><br>                </mfrac><br>        </mrow><br></math>"
+            },
+            {
+                "id": 1,
+                "mathml": "<math><br>        <mrow><br>                <msup><br>                        <mi selected='true'>x</mi><br>                        <mn>2</mn><br>                </msup><br>                <mo>+</mo><br>                <mn>2</mn><br>                <mi>x</mi><br>                <mo>+</mo><br>                <mn>1</mn><br>                <mo>=</mo><br>                <mn>0</mn><br>        </mrow><br></math>"
+            },
+            {
+                "id": 2,
+                "mathml": "<math><br>        <mrow selected='true'><br>                <msup><br>                        <mo>sin</mo><br>                        <mn>2</mn><br>                </msup><br>                <mi>&#x3B8;</mi><br>                <mo>+</mo><br>                <msup><br>                        <mo>cos</mo><br>                        <mn>2</mn><br>                </msup><br>                <mi>&#x3B8;</mi><br>                <mo>=</mo><br>                <mn>1</mn><br>        </mrow><br></math>"
+            }
+        ],
+        "message": "<p>You got it!&nbsp;<img alt='Fmath image asset' math_id='0' title='Fmath image asset'/>&nbsp;&nbsp;<img alt='Fmath image asset' math_id='1' title='Fmath image asset'/>&nbsp;&nbsp;<img alt='Fmath image asset' math_id='2' title='Fmath image asset'/></p>",
+        "sound": "assets/sounds/hint_3.mp3",
+        "wingSize": "large",
+        "streak": "3",
+        "interstitialsMessage": " Assignment Completed"
+    }
+}

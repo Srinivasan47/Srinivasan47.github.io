@@ -1,0 +1,122 @@
+{
+    "info": {
+        "status": "WG200",
+        "message": " ",
+		"title": "",
+        "sessionTimeout":"600",
+        "countdownTime": "60"
+    },
+    "data": {
+        "profile": {
+            "year": "2013",
+            "studentId": "1",
+            "knewtonId": "xxxxx-yyyyyy-zzzzz",
+            "schoolId": "xxx",
+            "timeZone": "",
+            "studentDisplayName": "Sophia G.",
+            "globalAudio": "off",
+            "avatar": "bear",
+            "getCoach": "on",
+			"role": "student"
+        },
+        "assignment": {
+            "type": "practicepack",
+            "info": {
+                "assignmentId": "113",
+				"studentAssignmentId": "113",
+                "assignmentName": "Name of the Goal",
+                "packName": " Pack Name",
+                "goalId": "013",
+                "knewtonGoalId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonLearningInstanceId": "xxxx-vvvv-bbbbb-dddd",
+                "knewtonRegistrationId": ""
+            }
+        },
+         "lastItem": "false",
+        "item": {
+			"itemId": "41",
+            "code": "segment",
+            "instructional_prompt": "Draw a segment with the fixed points located in (-6, 8) and (8, -6)",
+            "mechanical_prompt": "Click on the graph to place points and draw segment",
+            "answer_type": "segment",
+            "graph_data": {
+                "title": "Grid title",
+                "show_grid": true,
+                "show_axes": true,
+                "axes_labels": "each-gridline",
+                "show_decimals_as_fractions": true,
+                "grid_origin": {
+                    "x": 250,
+                    "y": 168
+                },
+                "xAxis": {
+                    "title": "X Axis",
+                    "from": -10,
+                    "to": 10,
+                    "scale": 2
+                },
+                "yAxis": {
+                    "title": "Y Axis",
+                    "from": -10,
+                    "to": 10,
+                    "scale": 2
+                },
+                "available_art": [
+                    {
+                        "type": "polygon",
+                        "points": [
+                            {
+                                "x": -2,
+                                "y": -2
+                            },
+                            {
+                                "x": -2,
+                                "y": 4
+                            },
+                            {
+                                "x": 4,
+                                "y": 4
+                            },
+                            {
+                                "x": 6,
+                                "y": -4
+                            }
+                        ]
+                    },
+                    {
+                        "type": "line",
+                        "from": {
+                            "x": -8,
+                            "y": -4
+                        },
+                        "to": {
+                            "x": 6,
+                            "y": 8
+                        }
+                    },
+                    {
+                        "type": "segment",
+                        "from": {
+                            "x": -6,
+                            "y": -6
+                        },
+                        "to": {
+                            "x": -2,
+                            "y": -6
+                        }
+                    },
+                    {
+                        "type": "point",
+                        "position": {
+                            "x": -8,
+                            "y": -8
+                        }
+                    }
+                ]
+            },
+            "hints_total": 3,
+            "hints_used": 0,
+            "hints": []
+        }
+    }
+}
